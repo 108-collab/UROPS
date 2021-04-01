@@ -1,0 +1,30 @@
+seqnames,start,end,DISEASE/TRAIT,SNPS
+2,141458544,141458544,Left  ventricle systolic dysfunction,rs17613427
+2,142440154,142440154,Left  ventricle systolic dysfunction,rs4503939
+2,76397094,76397094,Left ventricle wall thickness,rs17575455
+2,221440440,221440440,Left ventricle wall thickness,rs3770194
+4,176444101,176444101,Left ventricle wall thickness,rs6851508
+4,76795930,76795930,Left ventricle wall thickness,rs716525
+4,176609661,176609661,Left ventricle wall thickness,rs7660760
+4,176974686,176974686,Left ventricle wall thickness,rs12172985
+5,110300884,110300884,Left ventricle wall thickness,rs12518142
+5,110672513,110672513,Left ventricle wall thickness,rs17132261
+6,41716652,41716652,Left ventricle wall thickness,rs9349200
+6,45489244,45489244,Left ventricle wall thickness,rs2396442
+7,17622925,17622925,Left  ventricle systolic dysfunction,rs12534456
+7,147823512,147823512,Left ventricle wall thickness,rs10488353
+7,27252226,27252226,Left ventricle wall thickness,rs17437838
+8,127938311,127938311,Left  ventricle systolic dysfunction,rs13263872
+8,128587032,128587032,Left  ventricle systolic dysfunction,rs4733613
+8,124845117,124845117,Left ventricle diastolic internal dimension,rs12541595
+10,74968741,74968741,Left ventricle wall thickness,rs4372382
+11,8035840,8035840,Left  ventricle systolic dysfunction,rs10839968
+12,111472415,111472415,Left ventricle diastolic internal dimension,rs10774625
+12,31990343,31990343,Left ventricle wall thickness,rs10844084
+12,103723684,103723684,Left ventricle wall thickness,rs11111736
+15,79116590,79116590,Left ventricle wall thickness,rs8030485
+16,7790179,7790179,Left ventricle wall thickness,rs4238884
+18,25881348,25881348,Left ventricle wall thickness,rs10432213
+20,41253766,41253766,Left ventricle wall thickness,rs6102324
+21,15069983,15069983,Left ventricle wall thickness,rs2823035
+21,35739140,35739140,Left ventricle wall thickness,rs2835112

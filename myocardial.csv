@@ -1,0 +1,155 @@
+seqnames,start,end,DISEASE/TRAIT,SNPS
+1,55030366,55030366,Myocardial infarction (early onset),rs11206510
+1,109275908,109275908,Myocardial infarction (early onset),rs646776
+1,222650187,222650187,Myocardial infarction (early onset),rs17465637
+1,55030366,55030366,Myocardial infarction,rs11206510
+1,154424940,154424940,Myocardial infarction,rs12118721
+1,222638065,222638065,Myocardial infarction,rs35700460
+1,109274570,109274570,Myocardial infarction,rs7528419
+1,56499992,56499992,Myocardial infarction,rs9970807
+1,61429585,61429585,Myocardial fractal dimension (slice 6),rs6587924
+1,155992277,155992277,Myocardial fractal dimension (slice 6),rs35770803
+1,201362892,201362892,Myocardial fractal dimension (slice 6),rs1892027
+1,61429585,61429585,Myocardial fractal dimension (slice 7),rs6587924
+1,155992277,155992277,Myocardial fractal dimension (slice 7),rs35770803
+1,201362892,201362892,Myocardial fractal dimension (slice 2),rs1892027
+1,61429585,61429585,Myocardial fractal dimension (slice 3),rs6587924
+1,61429585,61429585,Myocardial fractal dimension (slice 4),rs6587924
+1,61429585,61429585,Myocardial fractal dimension (slice 5),rs6587924
+1,201362892,201362892,Myocardial fractal dimension (slice 5),rs1892027
+1,155992277,155992277,Myocardial fractal dimension (slice 8),rs35770803
+1,155992277,155992277,Myocardial fractal dimension (slice 9),rs35770803
+1,151170961,151170961,Myocardial infarction,rs115287176
+2,202881162,202881162,Myocardial infarction (early onset),rs6725887
+2,85534925,85534925,Myocardial infarction,rs10176176
+2,19742712,19742712,Myocardial infarction,rs16986953
+2,144528992,144528992,Myocardial infarction,rs17678683
+2,178666345,178666345,Myocardial fractal dimension (slice 2),rs71394376
+2,178666345,178666345,Myocardial fractal dimension (slice 3),rs71394376
+2,178666345,178666345,Myocardial fractal dimension (slice 4),rs71394376
+2,237371861,237371861,Myocardial infarction,rs146092501
+3,17082892,17082892,Myocardial infarction,rs4618210
+3,149875124,149875124,Myocardial infarction,rs41411047
+3,169473640,169473640,Myocardial fractal dimension (slice 6),rs1918978
+3,169473640,169473640,Myocardial fractal dimension (slice 7),rs1918978
+3,73505771,73505771,Myocardial fractal dimension (slice 2),rs4677294
+3,73505771,73505771,Myocardial fractal dimension (slice 3),rs4677294
+3,169473640,169473640,Myocardial fractal dimension (slice 5),rs1918978
+3,169473640,169473640,Myocardial fractal dimension (slice 8),rs1918978
+3,169473640,169473640,Myocardial fractal dimension (slice 9),rs1918978
+4,147359849,147359849,Myocardial infarction,rs4593108
+4,155718736,155718736,Myocardial infarction,rs72689147
+4,150108918,150108918,Myocardial infarction,rs9985766
+4,182703491,182703491,Incident myocardial infarction,rs7692395
+4,73741568,73741568,Myocardial infarction,rs188378669
+4,164197303,164197303,Myocardial infarction,rs61734696
+4,61909615,61909615,Myocardial infarction,rs192210727
+5,4029676,4029676,Myocardial infarction,rs11748327
+5,32073460,32073460,Myocardial infarction,rs32793
+5,52889863,52889863,Myocardial infarction,rs16880442
+5,154492281,154492281,Myocardial fractal dimension (slice 2),rs10076436
+5,154492281,154492281,Myocardial fractal dimension (slice 3),rs10076436
+5,154492281,154492281,Myocardial fractal dimension (slice 4),rs10076436
+6,12927312,12927312,Myocardial infarction (early onset),rs12526453
+6,160589086,160589086,Myocardial infarction,rs10455872
+6,39156672,39156672,Myocardial infarction,rs1544935
+6,160687112,160687112,Myocardial infarction,rs2315065
+6,12903725,12903725,Myocardial infarction,rs9349379
+6,163609768,163609768,Incident myocardial infarction,rs6941513
+6,31114163,31114163,Myocardial fractal dimension (slice 5),rs3130976
+6,118368851,118368851,Myocardial fractal dimension (slice 5),rs9320648
+6,118458983,118458983,Myocardial fractal dimension (slice 5),rs12214483
+6,31114163,31114163,Myocardial fractal dimension (slice 6),rs3130976
+6,118368851,118368851,Myocardial fractal dimension (slice 6),rs9320648
+6,118458983,118458983,Myocardial fractal dimension (slice 6),rs12214483
+6,31114163,31114163,Myocardial fractal dimension (slice 7),rs3130976
+6,118368851,118368851,Myocardial fractal dimension (slice 7),rs9320648
+6,118458983,118458983,Myocardial fractal dimension (slice 7),rs12214483
+6,31114163,31114163,Myocardial fractal dimension (slice 4),rs3130976
+6,31114163,31114163,Myocardial fractal dimension (slice 8),rs3130976
+6,118368851,118368851,Myocardial fractal dimension (slice 8),rs9320648
+6,118458983,118458983,Myocardial fractal dimension (slice 8),rs12214483
+6,31374707,31374707,Myocardial infarction,rs2523644
+7,130023656,130023656,Myocardial infarction,rs11556924
+7,14815437,14815437,Incident myocardial infarction,rs4721377
+8,125466208,125466208,Myocardial infarction,rs2001846
+8,63191534,63191534,Myocardial infarction,rs4739066
+8,72230147,72230147,Myocardial infarction,rs12541758
+8,124847575,124847575,Myocardial fractal dimension (slice 5),rs35006907
+8,124847575,124847575,Myocardial fractal dimension (slice 6),rs35006907
+8,124847575,124847575,Myocardial fractal dimension (slice 4),rs35006907
+9,22124478,22124478,Myocardial infarction,rs10757278
+9,22098575,22098575,Myocardial infarction (early onset),rs4977574
+9,22098575,22098575,Myocardial infarction,rs4977574
+9,22098620,22098620,Myocardial infarction,rs2891168
+9,133274414,133274414,Myocardial infarction,rs532436
+9,22088095,22088095,Myocardial infarction,rs10738607
+10,44280376,44280376,Myocardial infarction (early onset),rs1746048
+10,102834750,102834750,Myocardial infarction,rs1004467
+10,89243662,89243662,Myocardial infarction,rs1332329
+10,43985363,43985363,Myocardial infarction,rs1870634
+10,30046193,30046193,Myocardial infarction,rs2505083
+11,103798234,103798234,Myocardial infarction,rs2019090
+11,5884973,5884973,Myocardial infarction,rs11823828
+12,111672685,111672685,Myocardial infarction,rs3782886
+12,89615182,89615182,Myocardial infarction,rs2681472
+12,111569952,111569952,Myocardial infarction,rs653178
+12,114943266,114943266,Myocardial fractal dimension (slice 5),rs7132327
+12,114943266,114943266,Myocardial fractal dimension (slice 6),rs7132327
+12,114943266,114943266,Myocardial fractal dimension (slice 3),rs7132327
+12,114943266,114943266,Myocardial fractal dimension (slice 4),rs7132327
+12,111803962,111803962,Myocardial infarction,rs671
+12,111730205,111730205,Myocardial infarction,rs11066015
+12,111672685,111672685,Myocardial infarction,rs3782886
+12,112379979,112379979,Myocardial infarction,rs11066280
+12,110976657,110976657,Myocardial infarction,rs12229654
+12,112039251,112039251,Myocardial infarction,rs12231744
+12,111555908,111555908,Myocardial infarction,rs7969300
+12,109904793,109904793,Myocardial infarction,rs74416240
+12,112971371,112971371,Myocardial infarction,rs2072134
+12,110902439,110902439,Myocardial infarction,rs10774610
+13,110165755,110165755,Myocardial infarction,rs11617955
+13,110390962,110390962,Myocardial infarction,rs55940034
+14,99679373,99679373,Myocardial infarction,rs10139550
+14,71524131,71524131,Myocardial fractal dimension (slice 6),rs71105784
+14,71524131,71524131,Myocardial fractal dimension (slice 7),rs71105784
+14,71524131,71524131,Myocardial fractal dimension (slice 3),rs71105784
+14,71524131,71524131,Myocardial fractal dimension (slice 4),rs71105784
+14,71524131,71524131,Myocardial fractal dimension (slice 8),rs71105784
+15,90894158,90894158,Myocardial infarction,rs2521501
+15,78830996,78830996,Myocardial infarction,rs7165042
+15,67149412,67149412,Myocardial infarction,rs72743461
+15,40289298,40289298,Myocardial infarction,rs200787930
+15,91013841,91013841,Myocardial infarction,rs199921354
+16,86651813,86651813,Incident myocardial infarction,rs4843416
+17,48982960,48982960,Myocardial infarction,rs35895680
+17,60936127,60936127,Myocardial infarction,rs7212798
+17,2229956,2229956,Myocardial infarction,rs9914266
+17,80133738,80133738,Myocardial infarction,rs7211079
+17,46935905,46935905,Myocardial fractal dimension (slice 2),rs17608766
+17,46935905,46935905,Myocardial fractal dimension (slice 3),rs17608766
+17,46935905,46935905,Myocardial fractal dimension (slice 4),rs17608766
+17,46941097,46941097,Myocardial infarction,rs1052586
+19,11052925,11052925,Myocardial infarction (early onset),rs1122608
+19,2160530,2160530,Myocardial infarction,rs3803915
+19,30694303,30694303,Myocardial infarction in hypertension (calcium channel blocker interaction),rs16964543
+19,11077477,11077477,Myocardial infarction,rs55791371
+19,44919589,44919589,Myocardial infarction,rs56131196
+19,7516358,7516358,Myocardial fractal dimension (slice 5),rs113394178
+19,7516358,7516358,Myocardial fractal dimension (slice 6),rs113394178
+19,7516358,7516358,Myocardial fractal dimension (slice 7),rs113394178
+19,7516358,7516358,Myocardial fractal dimension (slice 4),rs113394178
+19,2934109,2934109,Myocardial infarction,rs146879198
+21,34226827,34226827,Myocardial infarction (early onset),rs9982601
+21,34221526,34221526,Myocardial infarction,rs28451064
+21,34226827,34226827,Myocardial infarction,rs9982601
+22,24262890,24262890,Myocardial infarction,rs180803
+22,32731495,32731495,Myocardial fractal dimension (slice 3),rs3788488
+3,136269570,136269570,Myocardial infarction,rs4678428 
+3,59505358,59505358,Myocardial infarction,rs11925209
+5,157039168,157039168,Myocardial infarction,rs1501909
+5,54583383,54583383,Myocardial infarction,rs17626606
+10,99970196,99970196,Myocardial infarction, rs11190346
+6,117462607,117462607,Myocardial infarction,rs6930292
+6,153462758,153462758,Myocardial infarction,rs114313
+18,69353506,69353506,Myocardial infarction, rs9961565
