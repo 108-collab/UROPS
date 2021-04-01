@@ -1,1 +1,1 @@
-# UROPS High Throughput idenfication of non-coding enhancer SNPS
+# UROPS: High Throughput identification of non-coding enhancer SNPS
