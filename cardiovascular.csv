@@ -1,0 +1,516 @@
+seqnames,start,end,DISEASE/TRAIT,SNPS
+1,182112825,182112825,Cardiovascular heart disease in diabetics,rs10911021
+1,109275216,109275216,Cardiovascular disease risk factors,rs660240
+1,101544358,101544358,Circulating leptin levels x sex interaction in high cardiovascular risk,rs1146714
+1,34530812,34530812,Circulating leptin levels in high cardiovascular risk,rs10737381
+1,23775590,23775590,Circulating leptin levels in high cardiovascular risk,rs11591202
+1,109274570,109274570,Lipoprotein-associated phospholipase A2 activity change in response to darapladib treatment in cardiovascular disease,rs7528419
+1,173026503,173026503,Myocardial infarction in darapladib-treated cardiovascular disease (time to event),rs201052613
+1,109274968,109274968,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs12740374
+1,210587100,210587100,Cardiovascular disease in hypertension (ACE inhibitor interaction),rs4077408
+1,227120115,227120115,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs115346894
+1,227236411,227236411,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs139496757
+1,109960674,109960674,Blood protein levels in cardiovascular risk,rs17610659
+1,12183768,12183768,Blood protein levels in cardiovascular risk,rs76769120
+1,26807930,26807930,Blood protein levels in cardiovascular risk,rs35538083
+1,11856038,11856038,Blood protein levels in cardiovascular risk,rs549596
+1,11857564,11857564,Blood protein levels in cardiovascular risk,rs35207557
+1,203199346,203199346,Blood protein levels in cardiovascular risk,rs2153101
+1,154453788,154453788,Blood protein levels in cardiovascular risk,rs4129267
+1,204641544,204641544,Blood protein levels in cardiovascular risk,rs116661163
+1,166516654,166516654,Cardiovascular event in rheumatoid arthritis,rs6684311
+1,3410468,3410468,Cardiovascular disease,rs2493296
+1,6616425,6616425,Cardiovascular disease,rs12731208
+1,8587858,8587858,Cardiovascular disease,rs6670508
+1,10736809,10736809,Cardiovascular disease,rs880315
+1,11825590,11825590,Cardiovascular disease,rs56153133
+1,16093094,16093094,Cardiovascular disease,rs28711771
+1,24703979,24703979,Cardiovascular disease,rs6686889
+1,25068642,25068642,Cardiovascular disease,rs448385
+1,26842709,26842709,Cardiovascular disease,rs71636784
+1,42041342,42041342,Cardiovascular disease,rs12758407
+1,55039974,55039974,Cardiovascular disease,rs11591147
+1,56163763,56163763,Cardiovascular disease,rs1149643
+1,56549996,56549996,Cardiovascular disease,rs61772626
+1,62456989,62456989,Cardiovascular disease,rs4350231
+1,72287256,72287256,Cardiovascular disease,rs2613498
+1,88897581,88897581,Cardiovascular disease,rs6679817
+1,109274968,109274968,Cardiovascular disease,rs12740374
+1,112504257,112504257,Cardiovascular disease,rs3790604
+1,115284645,115284645,Cardiovascular disease,rs59980837
+1,153689947,153689947,Cardiovascular disease,rs35479618
+1,193326609,193326609,Cardiovascular disease,rs16835282
+1,201814554,201814554,Cardiovascular disease,rs2820290
+1,228003374,228003374,Cardiovascular disease,rs2760061
+1,230701298,230701298,Cardiovascular disease,rs943580
+1,232394844,232394844,Cardiovascular disease,rs6683021
+2,21021128,21021128,Cardiovascular disease risk factors,rs10199768
+2,27508073,27508073,Cardiovascular disease risk factors,rs1260326
+2,236081413,236081413,Cardiovascular disease in hypertension (calcium channel blocker interaction),rs3768939
+2,71884400,71884400,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs7584466
+2,32636488,32636488,Blood protein levels in cardiovascular risk,rs7599125
+2,31643808,31643808,Blood protein levels in cardiovascular risk,rs693918
+2,27508073,27508073,Blood protein levels in cardiovascular risk,rs1260326
+2,102341256,102341256,Blood protein levels in cardiovascular risk,rs1420101
+2,60266350,60266350,Blood protein levels in cardiovascular risk,rs4672375
+2,241776965,241776965,Blood protein levels in cardiovascular risk,rs12469459
+2,20567381,20567381,Cardiovascular disease,rs113898337
+2,21041028,21041028,Cardiovascular disease,rs1367117
+2,21205177,21205177,Cardiovascular disease,rs312053
+2,25018517,25018517,Cardiovascular disease,rs188315257
+2,26691496,26691496,Cardiovascular disease,rs1275988
+2,27519736,27519736,Cardiovascular disease,rs780093
+2,28424836,28424836,Cardiovascular disease,rs67385572
+2,42969554,42969554,Cardiovascular disease,rs115262049
+2,43505819,43505819,Cardiovascular disease,rs3764769
+2,43845437,43845437,Cardiovascular disease,rs4299376
+2,45651621,45651621,Cardiovascular disease,rs687914
+2,58606358,58606358,Cardiovascular disease,rs6731302
+2,61435420,61435420,Cardiovascular disease,rs1186699
+2,65049318,65049318,Cardiovascular disease,rs1009358
+2,85983150,85983150,Cardiovascular disease,rs3937593
+2,120590036,120590036,Cardiovascular disease,rs11688682
+2,158455064,158455064,Cardiovascular disease,rs55873205
+2,164191395,164191395,Cardiovascular disease,rs13021222
+2,218277768,218277768,Cardiovascular disease,rs2271543
+2,218835276,218835276,Cardiovascular disease,rs78058190
+2,226243730,226243730,Cardiovascular disease,rs2943652
+3,165773492,165773492,Cardiovascular disease risk factors,rs1803274
+3,189796258,189796258,Circulating leptin levels in high cardiovascular risk,rs1515495
+3,98531371,98531371,Circulating leptin levels in high cardiovascular risk,rs4857399
+3,183010881,183010881,Circulating leptin levels in high cardiovascular risk,rs4074110
+3,132148683,132148683,Circulating leptin levels in high cardiovascular risk,rs3914906
+3,98531371,98531371,Circulating leptin levels in high cardiovascular risk,rs4857399
+3,60942161,60942161,Major coronary event in placebo-treated cardiovascular disease (time to event),rs138741635
+3,60942161,60942161,Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction),rs138741635
+3,15633655,15633655,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs11915606
+3,45780518,45780518,Blood protein levels in cardiovascular risk,rs73062378
+3,172516227,172516227,Blood protein levels in cardiovascular risk,rs142552223
+3,46373484,46373484,Blood protein levels in cardiovascular risk,rs62625034
+3,11467491,11467491,Cardiovascular disease,rs6781726
+3,14865227,14865227,Cardiovascular disease,rs2131570
+3,27521497,27521497,Cardiovascular disease,rs2643826
+3,48132720,48132720,Cardiovascular disease,rs6800730
+3,53523985,53523985,Cardiovascular disease,rs3821843
+3,53700504,53700504,Cardiovascular disease,rs6445597
+3,53815978,53815978,Cardiovascular disease,rs11130381
+3,128075405,128075405,Cardiovascular disease,rs11709060
+3,134274473,134274473,Cardiovascular disease,rs4682671
+3,136206349,136206349,Cardiovascular disease,rs1154988
+3,138403280,138403280,Cardiovascular disease,rs9818870
+3,150379848,150379848,Cardiovascular disease,rs9844972
+3,158564670,158564670,Cardiovascular disease,rs6441207
+3,160548029,160548029,Cardiovascular disease,rs75943566
+3,169139845,169139845,Cardiovascular disease,rs78307470
+3,169411863,169411863,Cardiovascular disease,rs2421648
+3,169577976,169577976,Cardiovascular disease,rs6770911
+3,184187521,184187521,Cardiovascular disease,rs35315125
+4,88124179,88124179,Cardiovascular disease risk factors,rs2199936
+4,10054752,10054752,Cardiovascular disease risk factors,rs7671266
+4,10329670,10329670,Cardiovascular disease risk factors,rs4698036
+4,124644124,124644124,Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction),rs192427471
+4,124644124,124644124,Major coronary event in darapladib-treated cardiovascular disease (time to event),rs192427471
+4,47371654,47371654,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs148121703
+4,38941227,38941227,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs144610116
+4,87834676,87834676,Cardiovascular disease risk factors,rs7698623
+4,146249405,146249405,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs13147128
+4,73807847,73807847,Blood protein levels in cardiovascular risk,rs72650832
+4,73868964,73868964,Blood protein levels in cardiovascular risk,rs74544699
+4,82913620,82913620,Cardiovascular disease,rs35895091
+4,95165950,95165950,Cardiovascular disease,rs7694531
+4,99318162,99318162,Cardiovascular disease,rs1229984
+4,102000547,102000547,Cardiovascular disease,rs13127398
+4,102974066,102974066,Cardiovascular disease,rs7681002
+4,105989801,105989801,Cardiovascular disease,rs56388530
+4,110467945,110467945,Cardiovascular disease,rs7685862
+4,137518476,137518476,Cardiovascular disease,rs9330353
+4,143266227,143266227,Cardiovascular disease,rs893929
+4,155499453,155499453,Cardiovascular disease,rs6536076
+4,155725188,155725188,Cardiovascular disease,rs11724647
+4,15019561,15019561,Cardiovascular disease,rs9291634
+4,3442204,3442204,Cardiovascular disease,rs13108218
+4,17862391,17862391,Cardiovascular disease,rs58854324
+4,26587448,26587448,Cardiovascular disease,rs1826063
+4,38357696,38357696,Cardiovascular disease,rs6819003
+4,80253438,80253438,Cardiovascular disease,rs13125101
+5,169018484,169018484,Circulating leptin levels x sex interaction in high cardiovascular risk,rs11954861
+5,169018484,169018484,Circulating leptin levels in high cardiovascular risk,rs11954861
+5,117697919,117697919,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs201394051
+5,1877166,1877166,Cardiovascular disease risk factors,rs4975709
+5,78725395,78725395,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs7714373
+5,153870393,153870393,Blood protein levels in cardiovascular risk,rs184243355
+5,157045138,157045138,Blood protein levels in cardiovascular risk,rs6555820
+5,75360714,75360714,Cardiovascular disease,rs12916
+5,78550731,78550731,Cardiovascular disease,rs10942863
+5,88477501,88477501,Cardiovascular disease,rs10042590
+5,96823820,96823820,Cardiovascular disease,rs35134
+5,114549599,114549599,Cardiovascular disease,rs7736264
+5,123121430,123121430,Cardiovascular disease,rs74661587
+5,128521800,128521800,Cardiovascular disease,rs17677603
+5,132478399,132478399,Cardiovascular disease,rs7719499
+5,133108436,133108436,Cardiovascular disease,rs72801474
+5,156955297,156955297,Cardiovascular disease,rs4704825
+5,158067851,158067851,Cardiovascular disease,rs2962383
+5,158169198,158169198,Cardiovascular disease,rs150532297
+5,158397473,158397473,Cardiovascular disease,rs7701003
+5,158511062,158511062,Cardiovascular disease,rs13358657
+5,159017266,159017266,Cardiovascular disease,rs36071027
+5,173870299,173870299,Cardiovascular disease,rs72810955
+5,177310719,177310719,Cardiovascular disease,rs13190036
+5,3704137,3704137,Cardiovascular disease,rs34681481
+5,32672675,32672675,Cardiovascular disease,rs2859814
+5,32832368,32832368,Cardiovascular disease,rs10059884
+5,53976834,53976834,Cardiovascular disease,rs4865796
+5,56572270,56572270,Cardiovascular disease,rs13179413
+5,64440647,64440647,Cardiovascular disease,rs271695
+5,68403865,68403865,Cardiovascular disease,rs7721613
+5,68747416,68747416,Cardiovascular disease,rs9291932
+6,25776721,25776721,Cardiovascular disease risk factors,rs11754288
+6,26092913,26092913,Cardiovascular disease risk factors,rs1800562
+6,32610112,32610112,Circulating leptin levels in high cardiovascular risk,rs9271170
+6,146805738,146805738,Circulating leptin levels in high cardiovascular risk,rs9390422
+6,168603339,168603339,Circulating leptin levels in high cardiovascular risk,rs12530037
+6,38925377,38925377,Circulating leptin levels in high cardiovascular risk,rs9394554
+6,146805738,146805738,Circulating leptin levels in high cardiovascular risk,rs9390422
+6,46709361,46709361,Lipoprotein-associated phospholipase A2 activity change in response to darapladib treatment in cardiovascular disease,rs76863441
+6,126276990,126276990,Diarrhoea in darapladib-treated cardiovascular disease (time to event),rs149232047
+6,140064258,140064258,Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction),rs181937009
+6,46709361,46709361,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs76863441
+6,160330499,160330499,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs9295128
+6,160589086,160589086,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs10455872
+6,160690668,160690668,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs186696265
+6,66873865,66873865,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs4357117
+6,41655295,41655295,Cardiovascular disease risk factors,rs2143678
+6,39147637,39147637,Cardiovascular disease in hypertension (calcium channel blocker interaction),rs7751419
+6,32183666,32183666,Blood protein levels in cardiovascular risk,rs2070600
+6,32405408,32405408,Blood protein levels in cardiovascular risk,rs10947260
+6,108489362,108489362,Blood protein levels in cardiovascular risk,rs61598054
+6,78773529,78773529,Cardiovascular disease,rs1507151
+6,126834566,126834566,Cardiovascular disease,rs13210511
+6,133863834,133863834,Cardiovascular disease,rs2105092
+6,135126635,135126635,Cardiovascular disease,rs9321485
+6,139509081,139509081,Cardiovascular disease,rs607342
+6,142859589,142859589,Cardiovascular disease,rs62430713
+6,150654176,150654176,Cardiovascular disease,rs62434109
+6,151534458,151534458,Cardiovascular disease,rs10872673
+6,160591981,160591981,Cardiovascular disease,rs140570886
+6,165748847,165748847,Cardiovascular disease,rs2934849
+6,1619912,1619912,Cardiovascular disease,rs2569882
+6,20686765,20686765,Cardiovascular disease,rs9368222
+6,22056694,22056694,Cardiovascular disease,rs2294214
+6,22392594,22392594,Cardiovascular disease,rs2744132
+6,43381570,43381570,Cardiovascular disease,rs7763350
+6,43791136,43791136,Cardiovascular disease,rs6905288
+6,50335316,50335316,Cardiovascular disease,rs1845034
+6,51969222,51969222,Cardiovascular disease,rs1581717
+7,29169736,29169736,Circulating leptin levels in high cardiovascular risk,rs245908
+7,7995866,7995866,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs145044782
+7,86058899,86058899,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs151062494
+7,86193546,86193546,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs112858730
+7,76284324,76284324,Blood protein levels in cardiovascular risk,rs13236526
+7,1156056,1156056,Cardiovascular disease,rs73033340
+7,1859811,1859811,Cardiovascular disease,rs11770148
+7,2494758,2494758,Cardiovascular disease,rs2969037
+7,7237584,7237584,Cardiovascular disease,rs11771259
+7,27206274,27206274,Cardiovascular disease,rs3735533
+7,27532326,27532326,Cardiovascular disease,rs11767188
+7,44542387,44542387,Cardiovascular disease,rs17725246
+7,74683722,74683722,Cardiovascular disease,rs7794284
+7,92600848,92600848,Cardiovascular disease,rs740047
+7,106771412,106771412,Cardiovascular disease,rs17477177
+7,122434362,122434362,Cardiovascular disease,rs983521
+7,130023656,130023656,Cardiovascular disease,rs11556924
+7,130739451,130739451,Cardiovascular disease,rs6974288
+7,134509749,134509749,Cardiovascular disease,rs782520
+7,139767877,139767877,Cardiovascular disease,rs28656273
+7,150993088,150993088,Cardiovascular disease,rs3918226
+7,151716108,151716108,Cardiovascular disease,rs10224210
+8,19992246,19992246,Cardiovascular disease risk factors,rs17091905
+8,19992246,19992246,Cardiovascular disease risk factors,rs17091905
+8,19962213,19962213,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs328
+8,137210487,137210487,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs35323955
+8,119111105,119111105,Blood protein levels in cardiovascular risk,rs6469811
+8,105577019,105577019,Blood protein levels in cardiovascular risk,rs16873402
+8,23373385,23373385,Blood protein levels in cardiovascular risk,rs6557662
+8,125487789,125487789,Blood protein levels in cardiovascular risk,rs28601761
+8,119111583,119111583,Blood protein levels in cardiovascular risk,rs7813952
+8,105569300,105569300,Blood protein levels in cardiovascular risk,rs6993770
+8,20048393,20048393,Cardiovascular disease,rs78299715
+8,26042889,26042889,Cardiovascular disease,rs73563812
+8,26542619,26542619,Cardiovascular disease,rs10107066
+8,31067041,31067041,Cardiovascular disease,rs1800389
+8,58399138,58399138,Cardiovascular disease,rs1030431
+8,75804502,75804502,Cardiovascular disease,rs2977324
+8,81912028,81912028,Cardiovascular disease,rs13265769
+8,94959692,94959692,Cardiovascular disease,rs2011567
+8,101803258,101803258,Cardiovascular disease,rs1074703
+8,104954030,104954030,Cardiovascular disease,rs35783704
+8,125487789,125487789,Cardiovascular disease,rs28601761
+8,128400582,128400582,Cardiovascular disease,rs7841408
+8,142916379,142916379,Cardiovascular disease,rs11781816
+9,37590253,37590253,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs57578064
+9,104634643,104634643,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs189889864
+9,77012344,77012344,Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event),rs62568141
+9,14723628,14723628,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs55670713
+9,133279294,133279294,Blood protein levels in cardiovascular risk,rs495828
+9,133279427,133279427,Blood protein levels in cardiovascular risk,rs635634
+9,133262254,133262254,Blood protein levels in cardiovascular risk,rs8176693
+9,133256074,133256074,Blood protein levels in cardiovascular risk,rs8176741
+9,27191570,27191570,Blood protein levels in cardiovascular risk,rs79250370
+9,133279427,133279427,Blood protein levels in cardiovascular risk,rs635634
+9,14735055,14735055,Cardiovascular disease,rs1048070
+9,19376260,19376260,Cardiovascular disease,rs67906804
+9,35906474,35906474,Cardiovascular disease,rs76452347
+9,37129499,37129499,Cardiovascular disease,rs13285624
+9,109998608,109998608,Cardiovascular disease,rs10816914
+9,110487920,110487920,Cardiovascular disease,rs76038906
+9,133657152,133657152,Cardiovascular disease,rs6271
+10,107120697,107120697,Circulating leptin levels in high cardiovascular risk,rs607437
+10,58485924,58485924,Circulating leptin levels in high cardiovascular risk,rs10763548
+10,121425789,121425789,Circulating leptin levels in high cardiovascular risk,rs10749415
+10,51474417,51474417,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs7086422
+10,100045685,100045685,Blood protein levels in cardiovascular risk,rs11599750
+10,48722715,48722715,Blood protein levels in cardiovascular risk,rs76519098
+10,89010241,89010241,Blood protein levels in cardiovascular risk,rs982764
+10,44896515,44896515,Cardiovascular disease,rs7099692
+10,58828793,58828793,Cardiovascular disease,rs4948550
+10,61755923,61755923,Cardiovascular disease,rs72831343
+10,62182180,62182180,Cardiovascular disease,rs10821967
+10,62805132,62805132,Cardiovascular disease,rs2236295
+10,74261866,74261866,Cardiovascular disease,rs10824134
+10,86412952,86412952,Cardiovascular disease,rs2114820
+10,94132902,94132902,Cardiovascular disease,rs10882397
+10,94254865,94254865,Cardiovascular disease,rs10786156
+10,95494548,95494548,Cardiovascular disease,rs943346
+10,100315722,100315722,Cardiovascular disease,rs603424
+10,100794914,100794914,Cardiovascular disease,rs10748798
+10,103146454,103146454,Cardiovascular disease,rs11191580
+10,104870101,104870101,Cardiovascular disease,rs145158522
+10,110281821,110281821,Cardiovascular disease,rs2855469
+10,114045297,114045297,Cardiovascular disease,rs1801253
+10,121240352,121240352,Cardiovascular disease,rs12358504
+10,132600079,132600079,Cardiovascular disease,rs75523587
+10,18156159,18156159,Cardiovascular disease,rs10740995
+10,18439030,18439030,Cardiovascular disease,rs12258967
+10,27963710,27963710,Cardiovascular disease,rs1962094
+11,117204850,117204850,Cardiovascular disease risk factors,rs508487
+11,116742944,116742944,Cardiovascular risk factors (age interaction),rs12280753
+11,122083949,122083949,Cardiovascular risk factors (age interaction),rs7121446
+11,133614359,133614359,Circulating leptin levels in high cardiovascular risk,rs4937802
+11,133614359,133614359,Circulating leptin levels in high cardiovascular risk,rs4937802
+11,26141193,26141193,Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction),rs12290663
+11,26141193,26141193,Major coronary event in darapladib-treated cardiovascular disease (time to event),rs12290663
+11,117286177,117286177,Cardiovascular disease risk factors,rs1047964
+11,12239165,12239165,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs11604904
+11,39949536,39949536,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs11035623
+11,126357828,126357828,Blood protein levels in cardiovascular risk,rs7928577
+11,10349128,10349128,Blood protein levels in cardiovascular risk,rs1580006
+11,14017074,14017074,Blood protein levels in cardiovascular risk,rs1969539
+11,102828729,102828729,Blood protein levels in cardiovascular risk,rs7946057
+11,102827000,102827000,Blood protein levels in cardiovascular risk,rs471994
+11,57403526,57403526,Blood protein levels in cardiovascular risk,rs140000161
+11,1748994,1748994,Blood protein levels in cardiovascular risk,rs111693235
+11,112181471,112181471,Blood protein levels in cardiovascular risk,rs75649625
+11,102872031,102872031,Blood protein levels in cardiovascular risk,rs17368659
+11,126431861,126431861,Blood protein levels in cardiovascular risk,rs35166255
+11,47340914,47340914,Cardiovascular disease,rs10769254
+11,47593023,47593023,Cardiovascular disease,rs11601694
+11,55100378,55100378,Cardiovascular disease,rs74966104
+11,58641214,58641214,Cardiovascular disease,rs11229555
+11,61505093,61505093,Cardiovascular disease,rs7125196
+11,64161743,64161743,Cardiovascular disease,rs11231711
+11,65067943,65067943,Cardiovascular disease,rs3850946
+11,65799248,65799248,Cardiovascular disease,rs557675
+11,69312240,69312240,Cardiovascular disease,rs67330701
+11,83778372,83778372,Cardiovascular disease,rs1155311
+11,100739815,100739815,Cardiovascular disease,rs604723
+11,103082247,103082247,Cardiovascular disease,rs2513993
+11,107226051,107226051,Cardiovascular disease,rs4754196
+11,111793677,111793677,Cardiovascular disease,rs12363917
+11,116778201,116778201,Cardiovascular disease,rs964184
+11,122656504,122656504,Cardiovascular disease,rs7129204
+11,1865986,1865986,Cardiovascular disease,rs612652
+11,9748015,9748015,Cardiovascular disease,rs415895
+11,13248667,13248667,Cardiovascular disease,rs11605518
+11,16239678,16239678,Cardiovascular disease,rs10832571
+11,30727543,30727543,Cardiovascular disease,rs963837
+11,32437261,32437261,Cardiovascular disease,rs3809060
+11,43786724,43786724,Cardiovascular disease,rs35521277
+12,121033534,121033534,Cardiovascular disease risk factors,rs3213545
+12,131593515,131593515,Circulating leptin levels x sex interaction in high cardiovascular risk,rs10082903
+12,124822507,124822507,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs11057830
+12,121000508,121000508,Blood protein levels in cardiovascular risk,rs1169306
+12,4275678,4275678,Cardiovascular disease,rs76895963
+12,12728121,12728121,Cardiovascular disease,rs72656645
+12,20008234,20008234,Cardiovascular disease,rs2078339
+12,20207394,20207394,Cardiovascular disease,rs73073694
+12,26310241,26310241,Cardiovascular disease,rs11048457
+12,47860570,47860570,Cardiovascular disease,rs117913411
+12,48203270,48203270,Cardiovascular disease,rs17122812
+12,48829758,48829758,Cardiovascular disease,rs17123349
+12,50183134,50183134,Cardiovascular disease,rs4883482
+12,54047714,54047714,Cardiovascular disease,rs7134677
+12,69400306,69400306,Cardiovascular disease,rs315145
+12,89619312,89619312,Cardiovascular disease,rs2681492
+12,109968581,109968581,Cardiovascular disease,rs9634314
+12,111446804,111446804,Cardiovascular disease,rs3184504
+12,114940232,114940232,Cardiovascular disease,rs10850407
+12,115118062,115118062,Cardiovascular disease,rs35429
+12,120977112,120977112,Cardiovascular disease,rs2255531
+12,121473799,121473799,Cardiovascular disease,rs10849891
+12,132472014,132472014,Cardiovascular disease,rs75588192
+12,133204577,133204577,Cardiovascular disease,rs36174733
+13,37481632,37481632,Circulating leptin levels x sex interaction in high cardiovascular risk,rs1407608
+13,42019404,42019404,Blood protein levels in cardiovascular risk,rs75416436
+13,21740007,21740007,Cardiovascular disease,rs9506725
+13,22596235,22596235,Cardiovascular disease,rs9317097
+13,29580212,29580212,Cardiovascular disease,rs3803266
+13,31671676,31671676,Cardiovascular disease,rs9603502
+13,41275595,41275595,Cardiovascular disease,rs112684153
+13,50532386,50532386,Cardiovascular disease,rs1239948
+13,110221209,110221209,Cardiovascular disease,rs675605
+13,112981842,112981842,Cardiovascular disease,rs9549328
+13,113920848,113920848,Cardiovascular disease,rs41284486
+13,114281830,114281830,Cardiovascular disease,rs3752105
+14,73609035,73609035,Major coronary event in placebo-treated cardiovascular disease (time to event),rs147204125
+14,84338144,84338144,Myocardial infarction in darapladib-treated cardiovascular disease (time to event),rs117714106
+14,73609035,73609035,Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction),rs147204125
+14,84338144,84338144,Myocardial infarction in cardiovascular disease (time to event) (darapladib treatment interaction),rs117714106
+14,22395865,22395865,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs8017559
+14,74935675,74935675,Blood protein levels in cardiovascular risk,rs880949
+14,55334969,55334969,Blood protein levels in cardiovascular risk,rs9323280
+14,103517957,103517957,Cardiovascular disease,rs2246490
+14,35401887,35401887,Cardiovascular disease,rs696
+14,50188639,50188639,Cardiovascular disease,rs72681869
+14,50626424,50626424,Cardiovascular disease,rs2356455
+14,71129630,71129630,Cardiovascular disease,rs221907
+15,58386313,58386313,Cardiovascular disease risk factors,rs10468017
+15,79882046,79882046,Circulating leptin levels in high cardiovascular risk,rs2562744
+15,43464986,43464986,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs190543502
+15,43735849,43735849,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs147233090
+15,44000939,44000939,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs11638352
+15,44116203,44116203,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs2733201
+15,44272494,44272494,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs144972973
+15,81304266,81304266,Blood protein levels in cardiovascular risk,rs139879640
+15,41170270,41170270,Cardiovascular disease,rs12324159
+15,41878308,41878308,Cardiovascular disease,rs747780
+15,61184737,61184737,Cardiovascular disease,rs4775373
+15,66648746,66648746,Cardiovascular disease,rs1440371
+15,67236036,67236036,Cardiovascular disease,rs7173826
+15,69390577,69390577,Cardiovascular disease,rs117539635
+15,74770056,74770056,Cardiovascular disease,rs11072508
+15,80723086,80723086,Cardiovascular disease,rs2627308
+15,90885725,90885725,Cardiovascular disease,rs1894400
+16,56954132,56954132,Cardiovascular disease risk factors,rs173539
+16,56955678,56955678,Cardiovascular risk factors,rs247616
+16,75549741,75549741,Diarrhoea in darapladib-treated cardiovascular disease (time to event),rs151269874
+16,72743326,72743326,Cardiovascular death or myocardial infarction in response to clopidogrel treatment,rs12598219
+16,84305578,84305578,"Cardiovascular death, myocardial infarction or stroke in response to clopidogrel treatment",rs4782918
+16,79700330,79700330,Blood protein levels in cardiovascular risk,rs11150189
+16,66917880,66917880,Blood protein levels in cardiovascular risk,rs2271025
+16,57380089,57380089,Blood protein levels in cardiovascular risk,rs670211
+16,292771,292771,Cardiovascular disease,rs12928131
+16,2036420,2036420,Cardiovascular disease,rs139491786
+16,3527279,3527279,Cardiovascular disease,rs138922864
+16,4087261,4087261,Cardiovascular disease,rs11647570
+16,4868325,4868325,Cardiovascular disease,rs10500326
+16,20381010,20381010,Cardiovascular disease,rs77924615
+16,31137821,31137821,Cardiovascular disease,rs9972727
+16,51794418,51794418,Cardiovascular disease,rs142076278
+16,53776634,53776634,Cardiovascular disease,rs7187250
+16,69397260,69397260,Cardiovascular disease,rs75086474
+16,69541335,69541335,Cardiovascular disease,rs62052820
+16,72067626,72067626,Cardiovascular disease,rs34042070
+16,75390212,75390212,Cardiovascular disease,rs766522
+16,81568607,81568607,Cardiovascular disease,rs12930850
+16,89634473,89634473,Cardiovascular disease,rs2460448
+17,68992525,68992525,Circulating leptin levels x sex interaction in high cardiovascular risk,rs1984722
+17,65072858,65072858,Circulating leptin levels in high cardiovascular risk,rs7218921
+17,65072858,65072858,Circulating leptin levels in high cardiovascular risk,rs7218921
+17,28265920,28265920,Blood protein levels in cardiovascular risk,rs241771
+17,58279141,58279141,Blood protein levels in cardiovascular risk,rs56378716
+17,36087290,36087290,Blood protein levels in cardiovascular risk,rs2188974
+17,36463294,36463294,Blood protein levels in cardiovascular risk,rs6607368
+17,4722597,4722597,Blood protein levels in cardiovascular risk,rs35186877
+17,77320798,77320798,Cardiovascular disease,rs1436138
+17,78796097,78796097,Cardiovascular disease,rs1044486
+17,81408117,81408117,Cardiovascular disease,rs6565564
+17,7877701,7877701,Cardiovascular disease,rs74439044
+17,30573897,30573897,Cardiovascular disease,rs58713975
+17,40602398,40602398,Cardiovascular disease,rs2872812
+17,45095905,45095905,Cardiovascular disease,rs2301597
+17,46935905,46935905,Cardiovascular disease,rs17608766
+17,47366128,47366128,Cardiovascular disease,rs1912483
+17,48593060,48593060,Cardiovascular disease,rs2288276
+17,49058513,49058513,Cardiovascular disease,rs68085814
+17,49377153,49377153,Cardiovascular disease,rs28412876
+17,58378280,58378280,Cardiovascular disease,rs2680707
+17,61391581,61391581,Cardiovascular disease,rs3785837
+17,63471557,63471557,Cardiovascular disease,rs4277405
+17,75830325,75830325,Cardiovascular disease,rs2290769
+18,31993562,31993562,Circulating leptin levels in high cardiovascular risk,rs11663063
+18,773091,773091,Cardiovascular disease,rs7232858
+18,1883793,1883793,Cardiovascular disease,rs313021
+18,23558901,23558901,Cardiovascular disease,rs2472610
+18,44514546,44514546,Cardiovascular disease,rs1877312
+18,51266459,51266459,Cardiovascular disease,rs72915163
+18,60252477,60252477,Cardiovascular disease,rs113602013
+19,44892362,44892362,Cardiovascular disease risk factors,rs2075650
+19,44892362,44892362,Cardiovascular disease risk factors,rs2075650
+19,11091630,11091630,Cardiovascular disease risk factors,rs6511720
+19,44908822,44908822,Cardiovascular risk factors,rs7412
+19,28745485,28745485,Circulating leptin levels in high cardiovascular risk,rs2218396
+19,44908822,44908822,Lipoprotein-associated phospholipase A2 activity change in response to darapladib treatment in cardiovascular disease,rs7412
+19,44908822,44908822,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs7412
+19,11091630,11091630,Lipoprotein phospholipase A2 activity in cardiovascular disease,rs6511720
+19,44908822,44908822,Ideal cardiovascular health (clinical and behavioural),rs7412
+19,44912383,44912383,Ideal cardiovascular health (clinical),rs445925
+19,48714854,48714854,Blood protein levels in cardiovascular risk,rs33988101
+19,51018565,51018565,Blood protein levels in cardiovascular risk,rs62115757
+19,6665009,6665009,Blood protein levels in cardiovascular risk,rs344560
+19,18365901,18365901,Blood protein levels in cardiovascular risk,rs3195944
+19,4237070,4237070,Blood protein levels in cardiovascular risk,rs4905
+19,18175736,18175736,Blood protein levels in cardiovascular risk,rs200373
+19,48703160,48703160,Blood protein levels in cardiovascular risk,rs492602
+19,50970985,50970985,Blood protein levels in cardiovascular risk,rs11667946
+19,48710274,48710274,Blood protein levels in cardiovascular risk,rs200433550
+19,1832318,1832318,Cardiovascular disease,rs8102879
+19,4920402,4920402,Cardiovascular disease,rs12972366
+19,7257979,7257979,Cardiovascular disease,rs12978472
+19,7341166,7341166,Cardiovascular disease,rs4804517
+19,10222312,10222312,Cardiovascular disease,rs10409243
+19,11081517,11081517,Cardiovascular disease,rs61194703
+19,11186154,11186154,Cardiovascular disease,rs74179972
+19,11416089,11416089,Cardiovascular disease,rs167479
+19,17108295,17108295,Cardiovascular disease,rs7246865
+19,18350146,18350146,Cardiovascular disease,rs113230003
+19,18730347,18730347,Cardiovascular disease,rs11880800
+19,44908822,44908822,Cardiovascular disease,rs7412
+19,48702915,48702915,Cardiovascular disease,rs516246
+19,49642643,49642643,Cardiovascular disease,rs189349094
+20,58589799,58589799,Cardiovascular risk factors (age interaction),rs127430
+20,63264568,63264568,Cardiovascular disease risk factors,rs1406961
+20,45916409,45916409,Blood protein levels in cardiovascular risk,rs4810479
+20,46113425,46113425,Blood protein levels in cardiovascular risk,rs1569723
+20,23046776,23046776,Blood protein levels in cardiovascular risk,rs3176123
+20,4445885,4445885,Cardiovascular disease,rs36037977
+20,8641833,8641833,Cardiovascular disease,rs6039216
+20,10985350,10985350,Cardiovascular disease,rs1887320
+20,32629151,32629151,Cardiovascular disease,rs4911250
+20,40551182,40551182,Cardiovascular disease,rs1883711
+20,44166512,44166512,Cardiovascular disease,rs6031431
+20,48791877,48791877,Cardiovascular disease,rs2208589
+20,51492442,51492442,Cardiovascular disease,rs6021247
+20,59131469,59131469,Cardiovascular disease,rs7267618
+20,63852557,63852557,Cardiovascular disease,rs2478981
+20,64080106,64080106,Cardiovascular disease,rs8126001
+21,43781951,43781951,Blood protein levels in cardiovascular risk,rs35285321
+21,43569666,43569666,Cardiovascular disease,rs4818833
+21,43339560,43339560,Cardiovascular disease,rs12627514
+21,15204463,15204463,Cardiovascular disease,rs2823139
+22,34618748,34618748,Circulating leptin levels in high cardiovascular risk,rs5755145
+22,20057896,20057896,Cardiovascular disease,rs174877
+22,29061594,29061594,Cardiovascular disease,rs134557
+X,29622701,29622701,Cardiovascular risk factors (age interaction),rs7890572
+X,129601222,129601222,Diarrhoea in darapladib-treated cardiovascular disease (time to event),rs16999497
+X,129737601,129737601,Blood protein levels in cardiovascular risk,rs2050011
