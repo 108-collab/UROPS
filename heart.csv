@@ -1,0 +1,823 @@
+seqnames,start,end,DISEASE/TRAIT,SNPS
+1,221378197,221378197,Mortality in heart failure,rs12733856
+1,118360355,118360355,Congenital heart malformation,rs2474937
+1,207767508,207767508,Heart rate,rs11118555
+1,207955720,207955720,Heart rate,rs11578508
+1,207955377,207955377,Resting heart rate,rs2745967
+1,243779782,243779782,RR interval (heart rate),rs4132509
+1,213682245,213682245,RR interval (heart rate),rs17706439
+1,115799281,115799281,Heart rate variability traits (SDNN),rs9428238
+1,15091577,15091577,Conotruncal heart defects (inherited effects),rs12072230
+1,109275216,109275216,Heart failure,rs660240
+1,44546601,44546601,Heart rate response to recovery post exercise (40 sec),rs272564
+1,31421549,31421549,Heart rate response to recovery post exercise (50 sec),rs11589125
+1,44546601,44546601,Heart rate response to recovery post exercise (50 sec),rs272564
+1,44546601,44546601,Heart rate increase in response to exercise,rs272564
+1,44546601,44546601,Heart rate response to recovery post exercise (30 sec),rs272564
+1,97524780,97524780,Heart rate response to beta blockers (atenolol monotherapy),rs6685658
+1,245060665,245060665,Heart rate response to beta blockers (atenolol monotherapy),rs547441
+1,183796672,183796672,Heart rate response to beta blockers (atenolol monotherapy),rs3002655
+1,14807172,14807172,Heart rate response to beta blockers (atenolol monotherapy),rs804136
+1,14418293,14418293,Heart rate response to beta blockers (atenolol add-on therapy),rs12130603
+1,72257528,72257528,Heart rate response to recovery post exercise (10 sec),rs61765646
+1,44540324,44540324,Heart rate response to recovery post exercise (20 sec),rs272570
+1,72286390,72286390,Heart rate response to recovery post exercise (20 sec),rs12740789
+1,220855166,220855166,Heart failure,rs11118620
+1,44546601,44546601,Heart rate response to exercise,rs272564
+1,44546601,44546601,Heart rate response to exercise,rs272564
+1,44546601,44546601,Heart rate response to recovery post exercise,rs272564
+1,44546601,44546601,Resting heart rate,rs272564
+1,207774716,207774716,Resting heart rate,rs35118522
+1,150612358,150612358,Congenital left-sided heart lesions,rs12045807
+1,9940418,9940418,Resting heart rate,rs182770070
+1,87427449,87427449,Resting heart rate,rs2152735
+1,44546601,44546601,Resting heart rate,rs272564
+1,217549549,217549549,Resting heart rate,rs11454451
+1,6212077,6212077,Resting heart rate,rs145358377
+1,207788387,207788387,Resting heart rate,rs41317993
+1,6236178,6236178,Resting heart rate,rs9970334
+1,66525663,66525663,Resting heart rate,rs10789207
+1,156486737,156486737,Resting heart rate,rs1171563
+1,207915947,207915947,Resting heart rate,rs2745959
+1,245175674,245175674,Ischemic heart disease in rheumatoid arthritis,rs112844193
+1,156087626,156087626,Ischemic heart disease in rheumatoid arthritis,rs112941217
+1,39525916,39525916,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs3738676
+1,10662447,10662447,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs59985166
+1,207920374,207920374,RR interval (heart rate),rs2785638
+1,18784584,18784584,Heart rate in heart failure with reduced ejection fraction,rs74056623
+1,18790006,18790006,Heart rate in heart failure with reduced ejection fraction,rs74056624
+1,18783262,18783262,Heart rate in heart failure with reduced ejection fraction,rs188344082
+1,236396997,236396997,Heart rate in heart failure with reduced ejection fraction,rs78133413
+1,224153647,224153647,Heart rate in heart failure with reduced ejection fraction,rs113737900
+1,121213648,121213648,Heart rate in heart failure with reduced ejection fraction,rs587606498
+1,62981186,62981186,Heart rate in heart failure with reduced ejection fraction,rs72671743
+1,184396836,184396836,Heart rate in heart failure with reduced ejection fraction,rs61823501
+1,236396997,236396997,Heart rate in heart failure with reduced ejection fraction,rs78133413
+1,165408366,165408366,Heart rate in heart failure with reduced ejection fraction,rs116521297
+1,165408879,165408879,Heart rate in heart failure with reduced ejection fraction,rs78093250
+1,18783514,18783514,Heart rate in heart failure with reduced ejection fraction,rs113459855
+1,226505234,226505234,Heart rate in heart failure with reduced ejection fraction,rs143554223
+1,226518546,226518546,Heart rate in heart failure with reduced ejection fraction,rs148467525
+1,18783980,18783980,Heart rate in heart failure with reduced ejection fraction,rs74056619
+1,18784033,18784033,Heart rate in heart failure with reduced ejection fraction,rs74056620
+1,18784068,18784068,Heart rate in heart failure with reduced ejection fraction,rs74056621
+1,18784160,18784160,Heart rate in heart failure with reduced ejection fraction,rs74056622
+2,187468337,187468337,Heart rate,rs4140885
+2,178856319,178856319,Heart rate,rs17362588
+2,231406573,231406573,Heart rate,rs13030174
+2,177815704,177815704,Heart rate,rs13413635
+2,84019462,84019462,RR interval (heart rate),rs1447537
+2,68836777,68836777,RR interval (heart rate),rs10496166
+2,37523837,37523837,RR interval (heart rate),rs4352210
+2,9581767,9581767,Heart rate variability traits,rs6432018
+2,178848941,178848941,Heart rate variability traits (RMSSD),rs13004438
+2,23482004,23482004,Conotruncal heart defects (maternal effects),rs6728515
+2,5847944,5847944,Conotruncal heart defects (inherited effects),rs2709466
+2,153185808,153185808,Conotruncal heart defects (inherited effects),rs10202249
+2,217668617,217668617,Congenital heart disease (inherited effect),rs1430128
+2,141204588,141204588,Congenital heart disease (inherited effect),rs11895588
+2,175845357,175845357,Congenital heart disease (maternal effect),rs13011467
+2,59773169,59773169,Heart rate response to recovery post exercise (40 sec),rs1899492
+2,59781131,59781131,Heart rate response to recovery post exercise (50 sec),rs13022107
+2,59803376,59803376,Heart rate increase in response to exercise,rs4672317
+2,59779531,59779531,Heart rate response to recovery post exercise (30 sec),rs12713403
+2,72786707,72786707,Heart rate response to beta blockers (atenolol monotherapy),rs7593084
+2,150979869,150979869,Heart rate response to beta blockers (atenolol monotherapy),rs6713372
+2,72842170,72842170,Heart rate response to beta blockers (atenolol monotherapy),rs12619068
+2,148650670,148650670,Heart rate response to beta blockers (atenolol monotherapy),rs16829119
+2,59781131,59781131,Heart rate response to recovery post exercise (10 sec),rs13022107
+2,178856319,178856319,Heart rate response to recovery post exercise (10 sec),rs17362588
+2,178894965,178894965,Heart rate response to recovery post exercise (10 sec),rs35596070
+2,59799771,59799771,Heart rate response to recovery post exercise (20 sec),rs1442875
+2,178894965,178894965,Heart rate response to recovery post exercise (20 sec),rs35596070
+2,126905321,126905321,Heart failure,rs13418717
+2,6303084,6303084,Immunoglobulin light chain (AL) amyloidosis (heart and kidney involvement),rs6752376
+2,59779570,59779570,Heart rate response to exercise,rs12713404
+2,59652132,59652132,Heart rate response to recovery post exercise,rs2539671
+2,59798828,59798828,Heart rate response to recovery post exercise,rs1372876
+2,178975161,178975161,Heart rate response to exercise,rs10497529
+2,59714844,59714844,Heart rate response to recovery post exercise,rs197084
+2,178975161,178975161,Resting heart rate,rs10497529
+2,27508073,27508073,Resting heart rate,rs1260326
+2,219434819,219434819,Resting heart rate,rs907683
+2,231404173,231404173,Resting heart rate,rs13002735
+2,52478914,52478914,Conotruncal heart defects,rs6545278
+2,239522359,239522359,Conotruncal heart defects,rs6706785
+2,178860510,178860510,Resting heart rate,rs151041685
+2,159196220,159196220,Resting heart rate,rs17494056
+2,27508073,27508073,Resting heart rate,rs1260326
+2,59779570,59779570,Resting heart rate,rs12713404
+2,231404173,231404173,Resting heart rate,rs13002735
+2,227269439,227269439,Resting heart rate,rs4608502
+2,174682945,174682945,Resting heart rate,rs564190295
+2,66497930,66497930,Resting heart rate,rs62144050
+2,187377642,187377642,Resting heart rate,rs62172372
+2,219434819,219434819,Resting heart rate,rs907683
+2,178975161,178975161,Resting heart rate,rs10497529
+2,178921341,178921341,Heart rate,rs79146658
+2,28613010,28613010,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs13409705
+2,217802649,217802649,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs3791979
+2,45262494,45262494,Glomerular filtration rate change in heart transplantation,rs17033285
+2,23527771,23527771,Heart rate in heart failure with reduced ejection fraction,rs1709294
+2,172769257,172769257,Heart rate in heart failure with reduced ejection fraction,rs115472750
+2,225227882,225227882,Heart rate in heart failure with reduced ejection fraction,rs189536067
+2,225229677,225229677,Heart rate in heart failure with reduced ejection fraction,rs111641830
+2,225229816,225229816,Heart rate in heart failure with reduced ejection fraction,rs112372754
+2,4101751,4101751,Heart rate in heart failure with reduced ejection fraction,rs112901026
+3,32447042,32447042,Mortality in heart failure,rs12638540
+3,179455191,179455191,Heart rate,rs7612445
+3,172067378,172067378,Heart rate,rs9647379
+3,53344218,53344218,Heart rate,rs2029213
+3,99448263,99448263,RR interval (heart rate),rs2670321
+3,167790274,167790274,Heart rate,rs13090836
+3,159089748,159089748,Conotruncal heart defects (maternal effects),rs6441249
+3,159298001,159298001,Conotruncal heart defects (maternal effects),rs35611996
+3,50213314,50213314,Conotruncal heart defects (maternal effects),rs74461473
+3,13289122,13289122,Conotruncal heart defects (inherited effects),rs749573
+3,114227412,114227412,Congenital heart disease (inherited effect),rs66678247
+3,63495718,63495718,Congenital heart disease (inherited effect),rs4688406
+3,159298001,159298001,Congenital heart disease (maternal effect),rs35611996
+3,159090176,159090176,Congenital heart disease (maternal effect),rs9870274
+3,18842371,18842371,Heart rate response to recovery post exercise (50 sec),rs73043051
+3,74734257,74734257,Heart rate response to recovery post exercise (30 sec),rs34310778
+3,74741866,74741866,Heart rate response to recovery post exercise (20 sec),rs6549653
+3,165562421,165562421,Heart failure,rs1523288
+3,63453210,63453210,Congenital left-sided heart lesions,rs1975649
+3,32447042,32447042,Mortality in heart failure,rs12638540
+3,38743466,38743466,Heart rate response to exercise,rs7433723
+3,74737340,74737340,Heart rate response to recovery post exercise,rs6549649
+3,38725184,38725184,Heart rate response to recovery post exercise,rs6795970
+3,49732599,49732599,Resting heart rate,rs3749237
+3,179455191,179455191,Resting heart rate,rs7612445
+3,59663795,59663795,Conotruncal heart defects,rs6763159
+3,69361574,69361574,Resting heart rate,rs1483890
+3,53421542,53421542,Resting heart rate,rs2358740
+3,49732599,49732599,Resting heart rate,rs3749237
+3,122371255,122371255,Resting heart rate,rs11920570
+3,38579746,38579746,Resting heart rate,rs41312411
+3,179455191,179455191,Resting heart rate,rs7612445
+3,87702408,87702408,Resting heart rate,rs755291044
+3,38754924,38754924,Resting heart rate,rs6599255
+3,128242335,128242335,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs2955083
+3,156795028,156795028,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs9859058
+3,134436825,134436825,Heart rate in heart failure with reduced ejection fraction,rs189919070
+3,196256232,196256232,Heart rate in heart failure with reduced ejection fraction,rs56107869
+3,196256235,196256235,Heart rate in heart failure with reduced ejection fraction,rs56297497
+3,134436825,134436825,Heart rate in heart failure with reduced ejection fraction,rs189919070
+3,189563329,189563329,Heart rate in heart failure with reduced ejection fraction,rs189566544
+3,189573162,189573162,Heart rate in heart failure with reduced ejection fraction,rs144563425
+4,175937875,175937875,Mortality in heart failure,rs7687921
+4,139874173,139874173,Congenital heart malformation,rs1531070
+4,146578186,146578186,Heart rate,rs10213084
+4,130216606,130216606,RR interval (heart rate),rs1024020
+4,177397037,177397037,Heart rate variability traits,rs1395479
+4,175023930,175023930,Conotruncal heart defects (maternal effects),rs146189703
+4,175023930,175023930,Congenital heart disease (maternal effect),rs146189703
+4,57027604,57027604,Congenital heart disease (maternal effect),rs73242632
+4,118330002,118330002,Congenital heart disease (maternal effect),rs1514658
+4,110747470,110747470,Heart failure,rs17042102
+4,164148204,164148204,Heart rate response to beta blockers (atenolol add-on therapy),rs6822628
+4,164148585,164148585,Heart rate response to beta blockers (atenolol add-on therapy),rs17044565
+4,164154356,164154356,Heart rate response to beta blockers (atenolol add-on therapy),rs723730
+4,164155752,164155752,Heart rate response to beta blockers (atenolol add-on therapy),rs6835078
+4,164156275,164156275,Heart rate response to beta blockers (atenolol add-on therapy),rs6840738
+4,164157441,164157441,Heart rate response to beta blockers (atenolol add-on therapy),rs17044630
+4,164159680,164159680,Heart rate response to beta blockers (atenolol add-on therapy),rs9991538
+4,164159378,164159378,Heart rate response to beta blockers (atenolol add-on therapy),rs11943491
+4,164164637,164164637,Heart rate response to beta blockers (atenolol add-on therapy),rs1431001
+4,164164966,164164966,Heart rate response to beta blockers (atenolol add-on therapy),rs1430998
+4,164172004,164172004,Heart rate response to beta blockers (atenolol add-on therapy),rs17044711
+4,164156960,164156960,Heart rate response to beta blockers (atenolol add-on therapy),rs985676
+4,164159224,164159224,Heart rate response to beta blockers (atenolol add-on therapy),rs11930019
+4,164159753,164159753,Heart rate response to beta blockers (atenolol add-on therapy),rs10002082
+4,153589424,153589424,Heart rate response to beta blockers (atenolol monotherapy),rs4315759
+4,164160251,164160251,Heart rate response to beta blockers (atenolol add-on therapy),rs11931264
+4,164164750,164164750,Heart rate response to beta blockers (atenolol add-on therapy),rs1430999
+4,164161744,164161744,Heart rate response to beta blockers (atenolol add-on therapy),rs1120384
+4,164174438,164174438,Heart rate response to beta blockers (atenolol add-on therapy),rs10517800
+4,164169729,164169729,Heart rate response to beta blockers (atenolol add-on therapy),rs13435288
+4,164177450,164177450,Heart rate response to beta blockers (atenolol add-on therapy),rs7673540
+4,164180839,164180839,Heart rate response to beta blockers (atenolol add-on therapy),rs7659131
+4,164190521,164190521,Heart rate response to beta blockers (atenolol add-on therapy),rs1835507
+4,144565237,144565237,Heart rate response to beta blockers (atenolol add-on therapy),rs13118928
+4,4646320,4646320,Congenital heart disease,rs870142
+4,23949395,23949395,Resting heart rate,rs12501032
+4,148053451,148053451,Resting heart rate,rs6845865
+4,144564763,144564763,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs7655625
+4,164101099,164101099,Glomerular filtration rate change in heart transplantation,rs9762450
+4,38234363,38234363,Heart rate in heart failure with reduced ejection fraction,rs78829380
+4,22625658,22625658,Heart rate in heart failure with reduced ejection fraction,rs112577387
+4,22630338,22630338,Heart rate in heart failure with reduced ejection fraction,rs73123536
+4,114106683,114106683,Heart rate in heart failure with reduced ejection fraction,rs115982993
+5,179708814,179708814,Resting heart rate,rs6893300
+5,179741096,179741096,Resting heart rate,rs17617068
+5,33636489,33636489,Mortality in heart failure,rs6868223
+5,173237160,173237160,Heart rate,rs6882776
+5,137859073,137859073,Heart rate,rs7722600
+5,66443611,66443611,RR interval (heart rate),rs10514995
+5,4831488,4831488,Heart rate,rs816475
+5,71956619,71956619,Conotruncal heart defects (maternal effects),rs1217752
+5,115544896,115544896,Conotruncal heart defects (inherited effects),rs13177180
+5,43022662,43022662,Conotruncal heart defects (inherited effects),rs6886261
+5,104604349,104604349,Congenital heart disease (inherited effect),rs1000613
+5,71956619,71956619,Congenital heart disease (maternal effect),rs1217752
+5,137676482,137676482,Heart failure,rs11745324
+5,123110924,123110924,Heart rate response to recovery post exercise (40 sec),rs151283
+5,122531295,122531295,Heart rate response to recovery post exercise (50 sec),rs4836027
+5,123110924,123110924,Heart rate response to recovery post exercise (50 sec),rs151283
+5,122531295,122531295,Heart rate increase in response to exercise,rs4836027
+5,162971455,162971455,Heart rate response to beta blockers (atenolol monotherapy),rs4274995
+5,51868281,51868281,Congenital heart disease,rs12186641
+5,110840429,110840429,Mortality in heart failure,rs9885413
+5,122533238,122533238,Heart rate response to exercise,rs6595376
+5,122531295,122531295,Heart rate response to exercise,rs4836027
+5,122531295,122531295,Heart rate response to exercise,rs4836027
+5,122533238,122533238,Heart rate response to exercise,rs6595376
+5,122531295,122531295,Heart rate response to exercise,rs4836027
+5,122533615,122533615,Heart rate response to recovery post exercise,rs1993875
+5,30888476,30888476,Resting heart rate,rs13165531
+5,138217281,138217281,Resting heart rate,rs1468333
+5,173216115,173216115,Resting heart rate,rs4868243
+5,108411746,108411746,Resting heart rate,rs9326726
+5,91046595,91046595,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs7449334
+5,143822140,143822140,Glomerular filtration rate change in heart transplantation,rs918378
+5,30425422,30425422,Heart rate in heart failure with reduced ejection fraction,rs541284506
+5,33083283,33083283,Heart rate in heart failure with reduced ejection fraction,rs112434206
+5,166089843,166089843,Heart rate in heart failure with reduced ejection fraction,rs114821210
+5,30869242,30869242,Heart rate in heart failure with reduced ejection fraction,rs77506079
+5,121264302,121264302,Heart rate in heart failure with reduced ejection fraction,rs79031501
+5,121265711,121265711,Heart rate in heart failure with reduced ejection fraction,rs965460
+5,121270537,121270537,Heart rate in heart failure with reduced ejection fraction,rs114726259
+5,31695670,31695670,Heart rate in heart failure with reduced ejection fraction,rs372344
+5,31694898,31694898,Heart rate in heart failure with reduced ejection fraction,rs1678921
+5,166089843,166089843,Heart rate in heart failure with reduced ejection fraction,rs114821210
+5,30425422,30425422,Heart rate in heart failure with reduced ejection fraction,rs541284506
+5,33083283,33083283,Heart rate in heart failure with reduced ejection fraction,rs112434206
+5,8543925,8543925,Heart rate in heart failure with reduced ejection fraction,rs1700575
+5,141806037,141806037,Heart rate in heart failure with reduced ejection fraction,rs17097649
+5,141809067,141809067,Heart rate in heart failure with reduced ejection fraction,rs17097676
+5,101495996,101495996,Heart rate in heart failure with reduced ejection fraction,rs113510721
+5,101496433,101496433,Heart rate in heart failure with reduced ejection fraction,rs28806579
+5,166127270,166127270,Heart rate in heart failure with reduced ejection fraction,rs74956835
+5,170374105,170374105,Heart rate in heart failure with reduced ejection fraction,rs144322502
+5,166124695,166124695,Heart rate in heart failure with reduced ejection fraction,rs114101629
+5,166138903,166138903,Heart rate in heart failure with reduced ejection fraction,rs75729550
+6,121810339,121810339,Heart rate,rs1015451
+6,118346359,118346359,Heart rate,rs11153730
+6,36824281,36824281,Heart rate,rs236373
+6,121460244,121460244,Heart rate,rs11154027
+6,121409576,121409576,Heart rate,rs17083533
+6,118252898,118252898,Resting heart rate,rs281868
+6,121824888,121824888,Resting heart rate,rs9398652
+6,121427396,121427396,Resting heart rate,rs11154022
+6,33118472,33118472,RR interval (heart rate),rs3117035
+6,36852789,36852789,Heart rate variability traits (SDNN),rs236349
+6,36852789,36852789,Heart rate variability traits (SDNN),rs236349
+6,36852789,36852789,Heart rate variability traits (RMSSD),rs236349
+6,36852789,36852789,Heart rate variability traits (RMSSD),rs236349
+6,36852789,36852789,Heart rate variability traits (pvRSA/HF),rs236349
+6,36852789,36852789,Heart rate variability traits (pvRSA/HF),rs236349
+6,36849337,36849337,Heart rate,rs236352
+6,30840985,30840985,Conotruncal heart defects (maternal effects),rs2517582
+6,30955750,30955750,Conotruncal heart defects (maternal effects),rs17189763
+6,31396299,31396299,Conotruncal heart defects (maternal effects),rs28366133
+6,9320073,9320073,Congenital heart disease (inherited effect),rs56409046
+6,30855983,30855983,Congenital heart disease (maternal effect),rs2844660
+6,36679903,36679903,Heart failure,rs4135240
+6,160584578,160584578,Heart failure,rs55730499
+6,160591981,160591981,Heart failure,rs140570886
+6,132623384,132623384,Heart rate response to beta blockers (atenolol add-on therapy),rs9385619
+6,157939659,157939659,Heart rate response to beta blockers,rs2364349
+6,101605939,101605939,Heart rate response to recovery post exercise (20 sec),rs2224202
+6,36849337,36849337,Heart rate response to exercise,rs236352
+6,36852789,36852789,Heart rate response to recovery post exercise,rs236349
+6,32601279,32601279,Heart rate response to exercise,rs9270779
+6,118238495,118238495,Resting heart rate,rs3951016
+6,121846992,121846992,Resting heart rate,rs1320761
+6,121793305,121793305,Resting heart rate,rs9320841
+6,36852789,36852789,Resting heart rate,rs236349
+6,7554606,7554606,Resting heart rate,rs2744375
+6,118238495,118238495,Resting heart rate,rs3951016
+6,121846992,121846992,Resting heart rate,rs1320761
+6,40414972,40414972,Incident coronary heart disease,rs2916260
+6,118370989,118370989,Resting heart rate,rs10457327
+6,121437366,121437366,Resting heart rate,rs3792943
+6,32185564,32185564,Rheumatic heart disease,rs201026476
+6,32661289,32661289,Rheumatic heart disease,rs28724238
+6,31358474,31358474,Rheumatic heart disease,rs9405084
+6,121700736,121700736,Heart rate,rs9482188
+6,120626545,120626545,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs1158317
+6,33767694,33767694,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs12173787
+6,121824746,121824746,RR interval (heart rate),rs9372667
+6,118688750,118688750,RR interval (heart rate),rs6911599
+6,121516168,121516168,RR interval (heart rate),rs9385199
+6,14453908,14453908,Heart rate in heart failure with reduced ejection fraction,rs149447933
+6,14411553,14411553,Heart rate in heart failure with reduced ejection fraction,rs139130723
+6,14420151,14420151,Heart rate in heart failure with reduced ejection fraction,rs142803096
+6,129963201,129963201,Heart rate in heart failure with reduced ejection fraction,rs17757727
+6,14453908,14453908,Heart rate in heart failure with reduced ejection fraction,rs149447933
+6,36799290,36799290,Heart rate in heart failure with reduced ejection fraction,rs9470398
+6,42088268,42088268,Heart rate in heart failure with reduced ejection fraction,rs79661299
+6,22177692,22177692,Heart rate in heart failure with reduced ejection fraction,rs182178320
+6,36799290,36799290,Heart rate in heart failure with reduced ejection fraction,rs9470398
+6,15880941,15880941,Heart rate in heart failure with reduced ejection fraction,rs116116894
+6,16264087,16264087,Heart rate in heart failure with reduced ejection fraction,rs149649230
+7,112446278,112446278,Mortality in heart failure,rs17159640
+7,93920284,93920284,Heart rate,rs180242
+7,100899511,100899511,Heart rate,rs13245899
+7,136957887,136957887,Heart rate,rs2350782
+7,100855586,100855586,Resting heart rate,rs314370
+7,100889133,100889133,Resting heart rate,rs12666989
+7,93921135,93921135,Heart rate variability traits (RMSSD),rs180238
+7,93921135,93921135,Heart rate variability traits (RMSSD),rs180238
+7,93922116,93922116,Heart rate variability traits (SDNN),rs4262
+7,93922116,93922116,Heart rate variability traits (SDNN),rs4262
+7,93922116,93922116,Heart rate variability traits (pvRSA/HF),rs4262
+7,93922116,93922116,Heart rate variability traits (pvRSA/HF),rs4262
+7,16931967,16931967,Conotruncal heart defects (maternal effects),rs28549925
+7,114223329,114223329,Conotruncal heart defects (maternal effects),rs1450832
+7,16931967,16931967,Congenital heart disease (maternal effect),rs28549925
+7,114223329,114223329,Congenital heart disease (maternal effect),rs1450832
+7,116558567,116558567,Heart rate response to recovery post exercise (40 sec),rs1997571
+7,136939874,136939874,Heart rate response to recovery post exercise (40 sec),rs17168815
+7,93921135,93921135,Heart rate response to recovery post exercise (40 sec),rs180238
+7,100885099,100885099,Heart rate response to recovery post exercise (40 sec),rs3757868
+7,93921135,93921135,Heart rate response to recovery post exercise (50 sec),rs180238
+7,100885099,100885099,Heart rate response to recovery post exercise (50 sec),rs3757868
+7,116558567,116558567,Heart rate response to recovery post exercise (50 sec),rs1997571
+7,136939874,136939874,Heart rate response to recovery post exercise (50 sec),rs17168815
+7,100897340,100897340,Heart rate increase in response to exercise,rs76181418
+7,116519907,116519907,Heart rate increase in response to exercise,rs2109514
+7,26530090,26530090,Heart rate response to recovery post exercise (30 sec),rs11768540
+7,93916465,93916465,Heart rate response to recovery post exercise (30 sec),rs180253
+7,100885099,100885099,Heart rate response to recovery post exercise (30 sec),rs3757868
+7,116558567,116558567,Heart rate response to recovery post exercise (30 sec),rs1997571
+7,136954689,136954689,Heart rate response to recovery post exercise (30 sec),rs6943656
+7,26543114,26543114,Heart rate response to recovery post exercise (10 sec),rs2158712
+7,93916465,93916465,Heart rate response to recovery post exercise (10 sec),rs180253
+7,100897329,100897329,Heart rate response to recovery post exercise (10 sec),rs17883557
+7,116558567,116558567,Heart rate response to recovery post exercise (10 sec),rs1997571
+7,136961160,136961160,Heart rate response to recovery post exercise (10 sec),rs6952499
+7,26527456,26527456,Heart rate response to recovery post exercise (20 sec),rs1990101
+7,93916465,93916465,Heart rate response to recovery post exercise (20 sec),rs180253
+7,100885099,100885099,Heart rate response to recovery post exercise (20 sec),rs3757868
+7,116558567,116558567,Heart rate response to recovery post exercise (20 sec),rs1997571
+7,136954689,136954689,Heart rate response to recovery post exercise (20 sec),rs6943656
+7,27290437,27290437,Heart failure,rs13225783
+7,116473690,116473690,Heart rate response to exercise,rs28495552
+7,116519907,116519907,Heart rate response to recovery post exercise,rs2109514
+7,116473690,116473690,Heart rate response to exercise,rs28495552
+7,100885099,100885099,Heart rate response to recovery post exercise,rs3757868
+7,136954689,136954689,Heart rate response to recovery post exercise,rs6943656
+7,93921103,93921103,Resting heart rate,rs180239
+7,100895738,100895738,Resting heart rate,rs17881696
+7,116806519,116806519,Resting heart rate,rs41748
+7,136891353,136891353,Resting heart rate,rs73158705
+7,100895738,100895738,Resting heart rate,rs17881696
+7,93921103,93921103,Resting heart rate,rs180239
+7,127329992,127329992,Resting heart rate,rs11563648
+7,131280650,131280650,Resting heart rate,rs138186803
+7,116806519,116806519,Resting heart rate,rs41748
+7,35218665,35218665,Resting heart rate,rs58437978
+7,136891353,136891353,Resting heart rate,rs73158705
+7,100168166,100168166,Resting heart rate,rs140367586
+7,121326736,121326736,Ischemic heart disease in rheumatoid arthritis,rs3779381
+7,100885099,100885099,RR interval (heart rate),rs3757868
+7,104595243,104595243,Heart rate in heart failure with reduced ejection fraction,rs143054558
+7,104670969,104670969,Heart rate in heart failure with reduced ejection fraction,rs190116644
+7,4549001,4549001,Heart rate in heart failure with reduced ejection fraction,rs11766034
+7,101886632,101886632,Heart rate in heart failure with reduced ejection fraction,rs10234809
+7,123038013,123038013,Heart rate in heart failure with reduced ejection fraction,rs111681691
+7,6163445,6163445,Heart rate in heart failure with reduced ejection fraction,rs78314028
+7,47398239,47398239,Heart rate in heart failure with reduced ejection fraction,rs192154334
+7,6499355,6499355,Heart rate in heart failure with reduced ejection fraction,rs142659860
+7,6501383,6501383,Heart rate in heart failure with reduced ejection fraction,rs73059342
+7,6508129,6508129,Heart rate in heart failure with reduced ejection fraction,rs556723179
+8,59217737,59217737,RR interval (heart rate),rs3110127
+8,30405270,30405270,Heart rate variability traits,rs2979481
+8,37238541,37238541,Heart rate,rs1015003
+8,59280255,59280255,Conotruncal heart defects (maternal effects),rs55884872
+8,57383062,57383062,Conotruncal heart defects (inherited effects),rs72652966
+8,59275232,59275232,Congenital heart disease (maternal effect),rs75661265
+8,87811731,87811731,Congenital heart disease (maternal effect),rs78642028
+8,134945091,134945091,Heart rate response to beta blockers (atenolol monotherapy),rs7461108
+8,124670801,124670801,Heart rate response to beta blockers (atenolol monotherapy),rs6470258
+8,134943565,134943565,Heart rate response to beta blockers (atenolol monotherapy),rs4132831
+8,124670942,124670942,Heart rate response to beta blockers (atenolol monotherapy),rs6470259
+8,95439600,95439600,Heart rate response to beta blockers (atenolol add-on therapy),rs16917667
+8,95440624,95440624,Heart rate response to beta blockers (atenolol add-on therapy),rs1392797
+8,15845741,15845741,Heart rate response to beta blockers (atenolol add-on therapy),rs1017660
+8,82756885,82756885,Heart failure,rs6473383
+8,10659837,10659837,Heart rate response to exercise,rs11775702
+8,10668676,10668676,Heart rate response to exercise,rs58065122
+8,120037994,120037994,Heart rate response to exercise,rs60717250
+8,143907320,143907320,Resting heart rate,rs56233017
+8,4244902,4244902,Resting heart rate,rs145669495
+8,61568961,61568961,Resting heart rate,rs142916219
+8,105501233,105501233,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs57942103
+8,108747025,108747025,Heart rate in heart failure with reduced ejection fraction,rs62509389
+8,108762441,108762441,Heart rate in heart failure with reduced ejection fraction,rs62509394
+8,95440624,95440624,Heart rate in heart failure with reduced ejection fraction,rs1392797
+8,95455121,95455121,Heart rate in heart failure with reduced ejection fraction,rs78897914
+8,95457559,95457559,Heart rate in heart failure with reduced ejection fraction,rs16917715
+8,95454820,95454820,Heart rate in heart failure with reduced ejection fraction,rs116454494
+8,95439207,95439207,Heart rate in heart failure with reduced ejection fraction,rs74864598
+8,95439600,95439600,Heart rate in heart failure with reduced ejection fraction,rs16917667
+8,3620814,3620814,Heart rate in heart failure with reduced ejection fraction,rs1600857
+8,63615955,63615955,Heart rate in heart failure with reduced ejection fraction,rs187251765
+9,25452814,25452814,RR interval (heart rate),rs13300284
+9,80192588,80192588,RR interval (heart rate),rs12554086
+9,25449124,25449124,RR interval (heart rate),rs12552736
+9,121713734,121713734,Heart rate,rs35061590
+9,12165298,12165298,Conotruncal heart defects (maternal effects),rs7024392
+9,73601791,73601791,Congenital heart disease (inherited effect),rs13285621
+9,22100177,22100177,Heart failure,rs1556516
+9,133276354,133276354,Heart failure,rs600038
+9,125445955,125445955,Heart rate response to beta blockers (atenolol monotherapy),rs10115550
+9,18109237,18109237,Heart failure,rs2210327
+9,27533986,27533986,Heart failure,rs10812610
+9,116194389,116194389,Conotruncal heart defects,rs436582
+9,125516460,125516460,Resting heart rate,rs10739663
+9,96433812,96433812,Resting heart rate,rs10820614
+9,35909521,35909521,Resting heart rate,rs748802
+9,23759370,23759370,Glomerular filtration rate change in heart transplantation,rs12057071
+10,77684995,77684995,Mortality in heart failure,rs4979906
+10,13713544,13713544,RR interval (heart rate),rs1541010
+10,116816095,116816095,Heart failure,rs740363
+10,8512542,8512542,Conotruncal heart defects (inherited effects),rs72775230
+10,8519464,8519464,Congenital heart disease (inherited effect),rs11816084
+10,73657491,73657491,Heart failure,rs4746140
+10,119667372,119667372,Heart failure,rs17617337
+10,100796418,100796418,Heart rate response to recovery post exercise (40 sec),rs7072737
+10,100798737,100798737,Heart rate response to recovery post exercise (50 sec),rs10748799
+10,100796418,100796418,Heart rate increase in response to exercise,rs7072737
+10,100796418,100796418,Heart rate response to recovery post exercise (30 sec),rs7072737
+10,33506985,33506985,Heart rate response to beta blockers (atenolol monotherapy),rs2804864
+10,100798737,100798737,Heart rate response to recovery post exercise (10 sec),rs10748799
+10,100798737,100798737,Heart rate response to recovery post exercise (20 sec),rs10748799
+10,89204857,89204857,Heart failure,rs11203032
+10,30753565,30753565,Congenital left-sided heart lesions (maternal effect),rs11008222
+10,100792906,100792906,Heart rate response to exercise,rs11190709
+10,100792995,100792995,Heart rate response to exercise,rs10883543
+10,100792995,100792995,Heart rate response to recovery post exercise,rs10883543
+10,100799664,100799664,Heart rate response to recovery post exercise,rs4917911
+10,100792995,100792995,Heart rate response to recovery post exercise,rs10883543
+10,130548836,130548836,Conotruncal heart defects,rs11017328
+10,103891899,103891899,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs10883944
+10,73647891,73647891,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs4746139
+10,111314442,111314442,Glomerular filtration rate change in heart transplantation,rs4917601
+10,59510886,59510886,Heart rate in heart failure with reduced ejection fraction,rs11006544
+10,11818334,11818334,Heart rate in heart failure with reduced ejection fraction,rs58829444
+10,59510886,59510886,Heart rate in heart failure with reduced ejection fraction,rs11006544
+10,77152423,77152423,Heart rate in heart failure with reduced ejection fraction,rs79087352
+11,12447850,12447850,Mortality in heart failure,rs7120489
+11,61803910,61803910,Heart rate,rs174549
+11,61803311,61803311,Resting heart rate,rs174547
+11,41831114,41831114,RR interval (heart rate),rs1484948
+11,118165996,118165996,Heart rate variability traits (SDNN),rs677652
+11,133461123,133461123,Heart rate variability traits (SDNN),rs149496015
+11,60508428,60508428,Congenital heart disease (maternal effect),rs1941023
+11,37475966,37475966,Heart rate response to beta blockers (atenolol monotherapy),rs11034161
+11,37419117,37419117,Heart rate response to beta blockers (atenolol monotherapy),rs16930242
+11,93477650,93477650,Heart rate response to beta blockers (atenolol add-on therapy),rs2658796
+11,72273354,72273354,Heart rate response to recovery post exercise (10 sec),rs7130652
+11,126158822,126158822,Heart failure,rs563519
+11,69648142,69648142,Immunoglobulin light chain (AL) amyloidosis (heart involvement),rs9344
+11,44958832,44958832,Resting heart rate,rs12576326
+11,61784455,61784455,Resting heart rate,rs174536
+11,63145382,63145382,Conotruncal heart defects,rs4366490
+11,61784455,61784455,Resting heart rate,rs174536
+11,44958832,44958832,Resting heart rate,rs12576326
+11,128894676,128894676,Resting heart rate,rs75190942
+11,12237634,12237634,Resting heart rate,rs112421686
+11,62675614,62675614,Resting heart rate,rs12364753
+11,78241969,78241969,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs2512519
+11,98834502,98834502,Heart rate in heart failure with reduced ejection fraction,rs12362161
+11,118548722,118548722,Heart rate in heart failure with reduced ejection fraction,rs111657631
+11,121940094,121940094,Heart rate in heart failure with reduced ejection fraction,rs143694932
+11,824293,824293,Heart rate in heart failure with reduced ejection fraction,rs114512805
+12,131378358,131378358,Mortality in heart failure,rs7965445
+12,33424055,33424055,Heart rate,rs7980799
+12,24617944,24617944,Heart rate,rs17287293
+12,106755644,106755644,Heart rate,rs2067615
+12,38712929,38712929,Heart rate,rs826838
+12,110717726,110717726,Heart rate,rs11065706
+12,24617944,24617944,Resting heart rate,rs17287293
+12,131137217,131137217,RR interval (heart rate),rs885389
+12,129152803,129152803,Heart rate,rs12824981
+12,24619033,24619033,Heart rate variability traits (SDNN),rs10842383
+12,24619033,24619033,Heart rate variability traits (SDNN),rs10842383
+12,33469964,33469964,Heart rate variability traits (SDNN),rs1384598
+12,33469964,33469964,Heart rate variability traits (SDNN),rs1384598
+12,24619033,24619033,Heart rate variability traits (RMSSD),rs10842383
+12,24619033,24619033,Heart rate variability traits (RMSSD),rs10842383
+12,33424055,33424055,Heart rate variability traits (RMSSD),rs7980799
+12,33424055,33424055,Heart rate variability traits (RMSSD),rs7980799
+12,24619033,24619033,Heart rate variability traits (pvRSA/HF),rs10842383
+12,24619033,24619033,Heart rate variability traits (pvRSA/HF),rs10842383
+12,33445840,33445840,Heart rate variability traits (pvRSA/HF),rs1351682
+12,33445840,33445840,Heart rate variability traits (pvRSA/HF),rs1351682
+12,24605546,24605546,Heart rate variability traits (RMSSD),rs4963772
+12,55659083,55659083,Conotruncal heart defects (inherited effects),rs941024
+12,111466567,111466567,Heart failure,rs4766578
+12,24605546,24605546,Heart rate response to recovery post exercise (40 sec),rs4963772
+12,33440192,33440192,Heart rate response to recovery post exercise (40 sec),rs6488162
+12,115789444,115789444,Heart rate response to recovery post exercise (40 sec),rs61928421
+12,24605546,24605546,Heart rate increase in response to exercise,rs4963772
+12,33440192,33440192,Heart rate increase in response to exercise,rs6488162
+12,24605546,24605546,Heart rate response to recovery post exercise (30 sec),rs4963772
+12,33440192,33440192,Heart rate response to recovery post exercise (30 sec),rs6488162
+12,115789444,115789444,Heart rate response to recovery post exercise (30 sec),rs61928421
+12,55629199,55629199,Heart rate response to beta blockers,rs17117817
+12,24605546,24605546,Heart rate response to recovery post exercise (50 sec),rs4963772
+12,33440192,33440192,Heart rate response to recovery post exercise (50 sec),rs6488162
+12,115789444,115789444,Heart rate response to recovery post exercise (50 sec),rs61928421
+12,24605546,24605546,Heart rate response to recovery post exercise (10 sec),rs4963772
+12,33440192,33440192,Heart rate response to recovery post exercise (10 sec),rs6488162
+12,115789444,115789444,Heart rate response to recovery post exercise (10 sec),rs61928421
+12,24605546,24605546,Heart rate response to recovery post exercise (20 sec),rs4963772
+12,33440192,33440192,Heart rate response to recovery post exercise (20 sec),rs6488162
+12,115789444,115789444,Heart rate response to recovery post exercise (20 sec),rs61928421
+12,42859612,42859612,Heart failure,rs1520832
+12,29951209,29951209,Heart failure,rs2046383
+12,91911494,91911494,Heart failure,rs17019682
+12,58865846,58865846,Heart failure,rs11172782
+12,24623818,24623818,Heart rate response to exercise,rs137913153
+12,66018350,66018350,Heart rate response to exercise,rs1480470
+12,33529470,33529470,Heart rate response to exercise,rs1994135
+12,33384452,33384452,Heart rate response to exercise,rs1343676
+12,24623818,24623818,Heart rate response to exercise,rs137913153
+12,24631205,24631205,Heart rate response to exercise,rs4246224
+12,33445840,33445840,Heart rate response to recovery post exercise,rs1351682
+12,33445840,33445840,Heart rate response to recovery post exercise,rs1351682
+12,37976308,37976308,Heart rate response to recovery post exercise,rs10880321
+12,38712929,38712929,Heart rate response to recovery post exercise,rs826838
+12,37536300,37536300,Heart rate response to recovery post exercise,rs10880689
+12,37820809,37820809,Heart rate response to recovery post exercise,rs4533105
+12,33581336,33581336,Heart rate response to recovery post exercise,rs1384590
+12,24605546,24605546,Heart rate response to recovery post exercise,rs4963772
+12,33581848,33581848,Heart rate response to recovery post exercise,rs2218650
+12,115790690,115790690,Heart rate response to recovery post exercise,rs11067773
+12,33581336,33581336,Heart rate response to recovery post exercise,rs1384590
+12,33384452,33384452,Resting heart rate,rs1343676
+12,2075300,2075300,Resting heart rate,rs2283274
+12,20319268,20319268,Resting heart rate,rs10841486
+12,24605546,24605546,Resting heart rate,rs4963772
+12,33529470,33529470,Resting heart rate,rs1994135
+12,38712929,38712929,Resting heart rate,rs826838
+12,64583070,64583070,Resting heart rate,rs867400
+12,33529470,33529470,Resting heart rate,rs1994135
+12,2075300,2075300,Resting heart rate,rs2283274
+12,27802363,27802363,Resting heart rate,rs1050288
+12,20319268,20319268,Resting heart rate,rs10841486
+12,37536300,37536300,Resting heart rate,rs10880689
+12,81825597,81825597,Resting heart rate,rs12579753
+12,24605546,24605546,Resting heart rate,rs4963772
+12,64583070,64583070,Resting heart rate,rs867400
+12,65965972,65965972,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs8756
+12,33376353,33376353,RR interval (heart rate),rs9888363
+12,99694540,99694540,Heart rate in heart failure with reduced ejection fraction,rs11110004
+12,62675917,62675917,Heart rate in heart failure with reduced ejection fraction,rs76392993
+12,18903336,18903336,Heart rate in heart failure with reduced ejection fraction,rs8181669
+12,18903960,18903960,Heart rate in heart failure with reduced ejection fraction,rs1490716
+12,99694540,99694540,Heart rate in heart failure with reduced ejection fraction,rs11110004
+12,75962050,75962050,Heart rate in heart failure with reduced ejection fraction,rs7965830
+12,75900959,75900959,Heart rate in heart failure with reduced ejection fraction,rs149765481
+12,119704045,119704045,Heart rate in heart failure with reduced ejection fraction,rs371848093
+12,75899702,75899702,Heart rate in heart failure with reduced ejection fraction,rs115146744
+12,84365999,84365999,Heart rate in heart failure with reduced ejection fraction,rs146219909
+12,75895517,75895517,Heart rate in heart failure with reduced ejection fraction,rs114782882
+12,89962714,89962714,Heart rate in heart failure with reduced ejection fraction,rs113516553
+12,89965597,89965597,Heart rate in heart failure with reduced ejection fraction,rs113983785
+12,89966409,89966409,Heart rate in heart failure with reduced ejection fraction,rs111371067
+12,89967845,89967845,Heart rate in heart failure with reduced ejection fraction,rs138517179
+13,22135531,22135531,RR interval (heart rate),rs7318731
+13,36089165,36089165,Heart rate variability traits,rs9315385
+13,74642067,74642067,Conotruncal heart defects (maternal effects),rs4885216
+13,88185775,88185775,Conotruncal heart defects (maternal effects),rs9586881
+13,74642067,74642067,Congenital heart disease (maternal effect),rs4885216
+13,88185775,88185775,Congenital heart disease (maternal effect),rs9586881
+13,75202132,75202132,Heart failure,rs548097
+13,91102945,91102945,Incident coronary heart disease,rs16945184
+13,27021678,27021678,Heart rate in heart failure with reduced ejection fraction,rs61945053
+13,113804866,113804866,Heart rate in heart failure with reduced ejection fraction,rs77095672
+13,113804983,113804983,Heart rate in heart failure with reduced ejection fraction,rs56032548
+13,73906571,73906571,Heart rate in heart failure with reduced ejection fraction,rs146264611
+14,90213566,90213566,Mortality in heart failure,rs8017423
+14,85343567,85343567,Heart rate,rs17796783
+14,23392602,23392602,Heart rate,rs365990
+14,23396676,23396676,Resting heart rate,rs452036
+14,23507801,23507801,Resting heart rate,rs223116
+14,72346561,72346561,Heart rate variability traits (SDNN),rs2529471
+14,72346561,72346561,Heart rate variability traits (SDNN),rs2529471
+14,71997545,71997545,Heart rate variability traits (SDNN),rs4899412
+14,71997545,71997545,Heart rate variability traits (SDNN),rs4899412
+14,72020336,72020336,Heart rate variability traits (RMSSD),rs2052015
+14,72020336,72020336,Heart rate variability traits (RMSSD),rs2052015
+14,72346561,72346561,Heart rate variability traits (RMSSD),rs2529471
+14,71886485,71886485,Heart rate variability traits (RMSSD),rs36423
+14,71886485,71886485,Heart rate variability traits (RMSSD),rs36423
+14,72020336,72020336,Heart rate variability traits (RMSSD),rs2052015
+14,71886485,71886485,Heart rate variability traits (SDNN),rs36423
+14,71886485,71886485,Heart rate variability traits (SDNN),rs36423
+14,72418763,72418763,Heart rate,rs17180489
+14,98725293,98725293,Heart rate variability traits (RMSSD),rs8009773
+14,27023434,27023434,Conotruncal heart defects (maternal effects),rs1245314
+14,62695894,62695894,Conotruncal heart defects (maternal effects),rs10129320
+14,24575006,24575006,Conotruncal heart defects (maternal effects),rs11623400
+14,96363661,96363661,Conotruncal heart defects (inherited effects),rs35946663
+14,40807221,40807221,Congenital heart disease (inherited effect),rs1176869
+14,40922047,40922047,Congenital heart disease (inherited effect),rs17111230
+14,27023434,27023434,Congenital heart disease (maternal effect),rs1245314
+14,24575006,24575006,Congenital heart disease (maternal effect),rs11623400
+14,72418763,72418763,Heart rate response to recovery post exercise (40 sec),rs17180489
+14,72418763,72418763,Heart rate increase in response to exercise,rs17180489
+14,72418763,72418763,Heart rate response to recovery post exercise (30 sec),rs17180489
+14,34423401,34423401,Heart rate response to beta blockers (atenolol add-on therapy),rs10142635
+14,72418763,72418763,Heart rate response to recovery post exercise (50 sec),rs17180489
+14,106645692,106645692,Rheumatic heart disease,rs11846409
+14,21074607,21074607,Heart rate response to exercise,rs12889267
+14,72418763,72418763,Heart rate response to recovery post exercise,rs17180489
+14,72418763,72418763,Heart rate response to exercise,rs17180489
+14,72378057,72378057,Heart rate response to recovery post exercise,rs150330648
+14,23395595,23395595,Resting heart rate,rs422068
+14,72418763,72418763,Resting heart rate,rs17180489
+14,85330220,85330220,Resting heart rate,rs17201923
+14,23396676,23396676,Resting heart rate,rs452036
+14,81871321,81871321,Conotruncal heart defects,rs1959122
+14,77913341,77913341,Resting heart rate,rs1549118
+14,72418763,72418763,Resting heart rate,rs17180489
+14,85330220,85330220,Resting heart rate,rs17201923
+14,21074607,21074607,Resting heart rate,rs12889267
+14,23395595,23395595,Resting heart rate,rs422068
+14,91117029,91117029,Resting heart rate,rs4900069
+14,23392602,23392602,Resting heart rate,rs365990
+14,102193651,102193651,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs56386186
+14,65784238,65784238,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs7143026
+14,92649065,92649065,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs754388
+14,23401543,23401543,RR interval (heart rate),rs432256
+14,24328255,24328255,Heart rate in heart failure with reduced ejection fraction,rs2092866
+14,31849939,31849939,Heart rate in heart failure with reduced ejection fraction,rs113235453
+15,31537504,31537504,Mortality in heart failure,rs2125623
+15,73373165,73373165,Heart rate,rs4489968
+15,78981704,78981704,RR interval (heart rate),rs3743200
+15,73215163,73215163,Heart rate variability traits (SDNN),rs1812835
+15,73361144,73361144,Heart rate variability traits (SDNN),rs2680344
+15,73361144,73361144,Heart rate variability traits (SDNN),rs2680344
+15,73215163,73215163,Heart rate variability traits (RMSSD),rs1812835
+15,73215163,73215163,Heart rate variability traits (RMSSD),rs1812835
+15,73361144,73361144,Heart rate variability traits (RMSSD),rs2680344
+15,73215163,73215163,Heart rate variability traits (pvRSA/HF),rs1812835
+15,73361144,73361144,Heart rate variability traits (pvRSA/HF),rs2680344
+15,94768842,94768842,Heart rate increase in response to exercise,rs12906962
+15,33189743,33189743,Heart rate response to beta blockers (atenolol monotherapy),rs11072312
+15,33192136,33192136,Heart rate response to beta blockers (atenolol monotherapy),rs4780091
+15,26748512,26748512,Heart rate response to beta blockers (atenolol add-on therapy),rs8035503
+15,94768842,94768842,Heart rate response to recovery post exercise (50 sec),rs12906962
+15,63445726,63445726,Heart failure,rs10519210
+15,34684669,34684669,Congenital left-sided heart lesions,rs6495706
+15,94768842,94768842,Heart rate response to exercise,rs12906962
+15,94768842,94768842,Heart rate response to recovery post exercise,rs12906962
+15,94768842,94768842,Heart rate response to exercise,rs12906962
+15,73371562,73371562,Resting heart rate,rs7173389
+15,73371562,73371562,Resting heart rate,rs7173389
+15,63696566,63696566,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs17186681
+15,75879549,75879549,Heart rate in heart failure with reduced ejection fraction,rs76806081
+16,6846127,6846127,Heart rate,rs11645781
+16,6850546,6850546,Heart rate variability traits (SDNN),rs4786125
+16,82445019,82445019,Conotruncal heart defects (maternal effects),rs12716944
+16,82445019,82445019,Congenital heart disease (maternal effect),rs12716944
+16,53772541,53772541,Heart failure,rs56094641
+16,87159478,87159478,Congenital left-sided heart lesions,rs8061121
+16,15816886,15816886,Resting heart rate,rs3915499
+16,10717830,10717830,Resting heart rate,rs1592560
+16,15816886,15816886,Resting heart rate,rs3915499
+16,65252967,65252967,Resting heart rate,rs7194801
+16,65094555,65094555,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs17431820
+16,24584678,24584678,Heart rate in heart failure with reduced ejection fraction,rs148133894
+16,87925065,87925065,Heart rate in heart failure with reduced ejection fraction,rs149322277
+16,13893862,13893862,Heart rate in heart failure with reduced ejection fraction,rs6498482
+16,50120769,50120769,Heart rate in heart failure with reduced ejection fraction,rs79272715
+16,13895264,13895264,Heart rate in heart failure with reduced ejection fraction,rs7188980
+16,78933297,78933297,Heart rate in heart failure with reduced ejection fraction,rs7198756
+16,76851168,76851168,Heart rate in heart failure with reduced ejection fraction,rs34141129
+16,13889638,13889638,Heart rate in heart failure with reduced ejection fraction,rs13338660
+16,13894865,13894865,Heart rate in heart failure with reduced ejection fraction,rs9924452
+16,13894782,13894782,Heart rate in heart failure with reduced ejection fraction,rs7184192
+16,13892870,13892870,Heart rate in heart failure with reduced ejection fraction,rs1364363
+16,13891137,13891137,Heart rate in heart failure with reduced ejection fraction,rs10163219
+16,13892198,13892198,Heart rate in heart failure with reduced ejection fraction,rs9927170
+16,24584678,24584678,Heart rate in heart failure with reduced ejection fraction,rs148133894
+16,87925065,87925065,Heart rate in heart failure with reduced ejection fraction,rs149322277
+16,87973047,87973047,Heart rate in heart failure with reduced ejection fraction,rs116213227
+16,87967762,87967762,Heart rate in heart failure with reduced ejection fraction,rs114700275
+16,87971983,87971983,Heart rate in heart failure with reduced ejection fraction,rs114908471
+16,87949887,87949887,Heart rate in heart failure with reduced ejection fraction,rs138575291
+16,720886,720886,Heart rate in heart failure with reduced ejection fraction,rs76064792
+16,13710372,13710372,Heart rate in heart failure with reduced ejection fraction,rs28523422
+16,50121093,50121093,Heart rate in heart failure with reduced ejection fraction,rs552214848
+16,87929642,87929642,Heart rate in heart failure with reduced ejection fraction,rs139731147
+16,24501229,24501229,Heart rate in heart failure with reduced ejection fraction,rs116598880
+17,74829334,74829334,Conotruncal heart defects (maternal effects),rs56171387
+17,7100096,7100096,Congenital heart disease (maternal effect),rs7212330
+17,74829334,74829334,Congenital heart disease (maternal effect),rs56171387
+17,78456913,78456913,Heart rate response to beta blockers (atenolol add-on therapy),rs12952770
+17,14213965,14213965,Conotruncal heart defects,rs12150130
+17,17813217,17813217,Resting heart rate,rs12941356
+17,15291962,15291962,Resting heart rate,rs79121763
+18,77275676,77275676,RR interval (heart rate),rs2717128
+18,54268905,54268905,Heart rate response to beta blockers (atenolol monotherapy),rs3730662
+18,54292131,54292131,Heart rate response to beta blockers (atenolol monotherapy),rs3730810
+18,39145929,39145929,Heart rate response to beta blockers (atenolol monotherapy),rs17662631
+18,24534093,24534093,Heart rate response to beta blockers (atenolol monotherapy),rs1006609
+18,51748195,51748195,Heart rate response to beta blockers (atenolol monotherapy),rs11082886
+18,59552172,59552172,Heart rate response to beta blockers (atenolol add-on therapy),rs2000887
+18,55192030,55192030,Heart rate response to exercise,rs1125313
+18,36709322,36709322,Resting heart rate,rs61735998
+18,2739735,2739735,Conotruncal heart defects,rs11872184
+18,32423359,32423359,Resting heart rate,rs11081761
+18,28186254,28186254,Resting heart rate,rs11083258
+18,22549561,22549561,Resting heart rate,rs117159291
+18,36709322,36709322,Resting heart rate,rs61735998
+18,22227108,22227108,Chronic obstructive pulmonary disease or resting heart rate (pleiotropy),rs12709669
+18,48509413,48509413,Heart rate in heart failure with reduced ejection fraction,rs144303414
+18,48509413,48509413,Heart rate in heart failure with reduced ejection fraction,rs144303414
+18,79553190,79553190,Heart rate in heart failure with reduced ejection fraction,rs188748322
+18,7162907,7162907,Heart rate in heart failure with reduced ejection fraction,rs74972015
+18,7165316,7165316,Heart rate in heart failure with reduced ejection fraction,rs76345468
+18,7165714,7165714,Heart rate in heart failure with reduced ejection fraction,rs75262741
+18,7165736,7165736,Heart rate in heart failure with reduced ejection fraction,rs147545594
+19,14240762,14240762,Mortality in heart failure,rs4528684
+19,38697472,38697472,Heart rate,rs11083475
+19,5894375,5894375,Heart rate variability traits (SDNN),rs12974440
+19,5893047,5893047,Heart rate variability traits (SDNN),rs12980262
+19,5893047,5893047,Heart rate variability traits (SDNN),rs12980262
+19,5894375,5894375,Heart rate variability traits (RMSSD),rs12974440
+19,5894573,5894573,Heart rate variability traits (RMSSD),rs12974991
+19,5894375,5894375,Heart rate variability traits (pvRSA/HF),rs12974440
+19,5894573,5894573,Heart rate variability traits (pvRSA/HF),rs12974991
+19,5872392,5872392,Heart rate variability traits (SDNN),rs12982903
+19,14334326,14334326,Conotruncal heart defects (maternal effects),rs11669181
+19,5873717,5873717,Heart rate response to recovery post exercise (40 sec),rs8108862
+19,29619424,29619424,Heart rate response to recovery post exercise (40 sec),rs55954001
+19,29618626,29618626,Heart rate increase in response to exercise,rs12986417
+19,5873717,5873717,Heart rate response to recovery post exercise (30 sec),rs8108862
+19,56145644,56145644,Heart rate response to beta blockers (atenolol monotherapy),rs7255998
+19,5873717,5873717,Heart rate response to recovery post exercise (50 sec),rs8108862
+19,29619424,29619424,Heart rate response to recovery post exercise (50 sec),rs55954001
+19,5894375,5894375,Heart rate response to recovery post exercise (10 sec),rs12974440
+19,5883962,5883962,Heart rate response to recovery post exercise (20 sec),rs12974377
+19,3159771,3159771,Heart failure,rs11880198
+19,29613291,29613291,Heart rate response to exercise,rs7255293
+19,5894573,5894573,Heart rate response to exercise,rs12974991
+19,5894573,5894573,Heart rate response to recovery post exercise,rs12974991
+19,40327563,40327563,Resting heart rate,rs16974196
+19,44918903,44918903,Resting heart rate,rs12721051
+19,32103916,32103916,Heart rate in heart failure with reduced ejection fraction,rs8105292
+19,32137461,32137461,Heart rate in heart failure with reduced ejection fraction,rs115709306
+19,32143298,32143298,Heart rate in heart failure with reduced ejection fraction,rs78705027
+19,32152628,32152628,Heart rate in heart failure with reduced ejection fraction,rs116175387
+19,32170310,32170310,Heart rate in heart failure with reduced ejection fraction,rs76302892
+20,38215636,38215636,Heart rate,rs6127471
+20,38211754,38211754,Heart rate variability traits (SDNN),rs6123471
+20,38211754,38211754,Heart rate variability traits (RMSSD),rs6123471
+20,38211754,38211754,Heart rate variability traits (RMSSD),rs6123471
+20,2492941,2492941,Conotruncal heart defects (maternal effects),rs41308639
+20,38211754,38211754,Resting heart rate,rs6123471
+20,34986962,34986962,Congenital left-sided heart lesions,rs3746446
+20,6601515,6601515,Conotruncal heart defects,rs6140038
+20,41203988,41203988,Resting heart rate,rs17265513
+20,38211754,38211754,Resting heart rate,rs6123471
+20,5395977,5395977,Resting heart rate,rs148397504
+20,38215590,38215590,RR interval (heart rate),rs6069234
+20,59333413,59333413,Heart rate in heart failure with reduced ejection fraction,rs138005219
+21,26501576,26501576,Heart rate response to beta blockers (atenolol monotherapy),rs2830261
+21,15008108,15008108,Heart rate response to beta blockers (atenolol monotherapy),rs2823005
+21,15015582,15015582,Heart rate response to beta blockers (atenolol monotherapy),rs2823008
+21,14119015,14119015,Heart rate in heart failure with reduced ejection fraction,rs57346421
+21,14120037,14120037,Heart rate in heart failure with reduced ejection fraction,rs55798126
+21,14124936,14124936,Heart rate in heart failure with reduced ejection fraction,rs56337324
+21,14126271,14126271,Heart rate in heart failure with reduced ejection fraction,rs78528733
+21,14131214,14131214,Heart rate in heart failure with reduced ejection fraction,rs73894141
+21,14131694,14131694,Heart rate in heart failure with reduced ejection fraction,rs73894142
+21,42637597,42637597,Heart rate in heart failure with reduced ejection fraction,rs139489372
+21,27242552,27242552,Heart rate in heart failure with reduced ejection fraction,rs1477717
+22,26646142,26646142,RR interval (heart rate),rs744016
+22,38436107,38436107,Conotruncal heart defects,rs2267386
+22,38754445,38754445,Resting heart rate,rs2076028
+22,27785411,27785411,Resting heart rate,rs2283847
+22,46422493,46422493,Heart rate in heart failure with reduced ejection fraction,rs535263906
+22,46423108,46423108,Heart rate in heart failure with reduced ejection fraction,rs150381023
+22,46429532,46429532,Heart rate in heart failure with reduced ejection fraction,rs150109621
+22,27571691,27571691,Heart rate in heart failure with reduced ejection fraction,rs5752592
+22,27568401,27568401,Heart rate in heart failure with reduced ejection fraction,rs28580426
+22,49158345,49158345,Heart rate in heart failure with reduced ejection fraction,rs6009185
+22,46422493,46422493,Heart rate in heart failure with reduced ejection fraction,rs535263906
+22,46417046,46417046,Heart rate in heart failure with reduced ejection fraction,rs190258023
+22,46417215,46417215,Heart rate in heart failure with reduced ejection fraction,rs148416395
+14,106639254,106639254,Rheumatic heart disease,rs201076896
+14,106639264,106639264,Rheumatic heart disease,rs202166511
+14,106639291,106639291,Rheumatic heart disease,rs202117805
+14,106639255,106639255,Rheumatic heart disease,rs201691548
+14,106645692,106645692,Rheumatic heart disease,rs11846409 
+14,106639263,106639263,Rheumatic heart disease,rs200931578
