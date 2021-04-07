@@ -1,4 +1,4 @@
-# https://github.com/Amandahsr/BulkTissueDeconvolution/tree/master/Guided%20Clustering%20(Seurat)
+# Adapted from https://github.com/Amandahsr/BulkTissueDeconvolution/tree/master/Guided%20Clustering%20(Seurat)
 library(Seurat)
 library(Matrix)
 sc.counts <- Read10X('C:\\Users\\Admin\\Documents\\Github\\ABC\\data')
