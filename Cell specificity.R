@@ -1,6 +1,8 @@
 # Adapted from https://github.com/Amandahsr/BulkTissueDeconvolution/tree/master/Guided%20Clustering%20(Seurat)
 library(Seurat)
 library(Matrix)
+
+#Read normalised 10X scRNA-seq dataset. The scRNA-seq data contains 287,269 cells from the 4 chambers of normal human heart samples (LV, LA, RV, RA) and 33,694 genes.
 sc.counts <- Read10X('C:\\Users\\Admin\\Documents\\Github\\ABC\\data')
 #Sample selection step: For the purpose of the project, retain only cells from the LV.
 LV.cells <- sc.counts[,substr(colnames(sc.counts), 1, 2) == "LV"]
